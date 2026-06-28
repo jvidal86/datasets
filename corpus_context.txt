@@ -1,0 +1,2941 @@
+C: GENERALITATS DE CATALUNYA
+
+Catalunya és una comunitat autònoma situada al nord-est de la península Ibèrica. Limita al nord amb França i Andorra, a l'est amb el mar Mediterrani, al sud amb la Comunitat Valenciana i a l'oest amb Aragó.
+P: Quina és la capital de Catalunya?
+R: La capital de Catalunya és Barcelona.<END>
+
+C: PROVÍNCIA DE BARCELONA
+
+La província de Barcelona és la més poblada de Catalunya i d'Espanya. S'estén per la part central i oriental de Catalunya.
+P: Quantes comarques té Catalunya?
+R: Catalunya té 42 comarques.<END>
+
+C: ---
+
+ANOIA
+
+L'Anoia és una comarca de la província de Barcelona. La seva capital és Igualada.
+P: Quantes províncies té Catalunya?
+R: Catalunya té quatre províncies: Barcelona, Girona, Lleida i Tarragona.<END>
+
+C: ---
+
+BAGES
+
+El Bages és una comarca de la província de Barcelona. La seva capital és Manresa.
+P: Quina és la muntanya més alta de Catalunya?
+R: La muntanya més alta de Catalunya és la Pica d'Estats, amb 3.143 metres, al Pallars Sobirà.<END>
+
+C: ---
+
+BAIX LLOBREGAT
+
+El Baix Llobregat és una comarca de la província de Barcelona. La seva capital és Sant Feliu de Llobregat.
+P: Quants habitants té Catalunya aproximadament?
+R: Catalunya té uns 7,8 milions d'habitants.<END>
+
+C: ---
+
+BARCELONÈS
+
+El Barcelonès és la comarca de la província de Barcelona que engloba la capital de Catalunya. La seva capital és Barcelona.
+P: Amb quins països limita Catalunya al nord?
+R: Catalunya limita al nord amb França i Andorra.<END>
+
+C: ---
+
+BERGUEDÀ
+
+El Berguedà és una comarca de la província de Barcelona. La seva capital és Berga.
+P: Quin és el riu més caudalós de Catalunya?
+R: El riu més caudalós de Catalunya és l'Ebre.<END>
+
+C: ---
+
+GARRAF
+
+El Garraf és una comarca de la província de Barcelona. La seva capital és Vilanova i la Geltrú.
+P: Quina és la llengua pròpia de Catalunya?
+R: La llengua pròpia de Catalunya és el català.<END>
+
+C: ---
+
+MARESME
+
+El Maresme és una comarca de la província de Barcelona. La seva capital és Mataró.
+P: Quina comarca té com a llengua cooficial l'aranès?
+R: La Val d'Aran és la comarca on l'aranès és cooficial al costat del català i el castellà.<END>
+
+C: ---
+
+MOIANÈS
+
+El Moianès és la comarca més nova de Catalunya, creada l'any 2015. La seva capital és Moià.
+P: Quants municipis té Catalunya?
+R: Catalunya té 947 municipis.<END>
+
+C: ---
+
+OSONA
+
+Osona és una comarca de la província de Barcelona. La seva capital és Vic.
+P: Quin és el riu principal afluent de l'Ebre a Catalunya?
+R: El Segre és el principal afluent de l'Ebre a Catalunya.<END>
+
+C: ---
+
+VALLÈS OCCIDENTAL
+
+El Vallès Occidental és una comarca de la província de Barcelona. La seva capital és Sabadell.
+P: Quin és l'únic parc nacional de Catalunya?
+R: L'únic parc nacional de Catalunya és el Parc Nacional d'Aigüestortes i Estany de Sant Maurici, al Pallars Jussà.<END>
+
+C: ---
+
+VALLÈS ORIENTAL
+
+El Vallès Oriental és una comarca de la província de Barcelona. La seva capital és Granollers.
+P: Quina és la província més extensa de Catalunya?
+R: La província més extensa de Catalunya és la de Lleida.<END>
+
+C: PROVÍNCIA DE GIRONA
+
+La província de Girona s'estén pel nord-est de Catalunya. Limita al nord amb França, a l'est amb el mar Mediterrani, al sud amb la província de Barcelona i a l'ouest amb la de Lleida.
+P: Quina és la província més poblada de Catalunya?
+R: La província més poblada de Catalunya és la de Barcelona, amb uns 5,6 milions d'habitants.<END>
+
+C: ---
+
+BAIX EMPORDÀ
+
+El Baix Empordà és una comarca de la província de Girona. La seva capital és la Bisbal d'Empordà.
+P: Quina és la capital de l'Alt Penedès?
+R: La capital de l'Alt Penedès és Vilafranca del Penedès.<END>
+
+C: ---
+
+CERDANYA
+
+La Cerdanya és una comarca de la província de Girona. La seva capital és Puigcerdà.
+P: Per què és famosa la comarca de l'Alt Penedès?
+R: L'Alt Penedès és famosa per la producció de vi i cava.<END>
+
+C: ---
+
+GARROTXA
+
+La Garrotxa és una comarca de la província de Girona. La seva capital és Olot.
+P: Quin municipi és la capital mundial del cava?
+R: Sant Sadurní d'Anoia és considerat la capital mundial del cava.<END>
+
+C: ---
+
+GIRONÈS
+
+El Gironès és una comarca de la província de Girona. La seva capital és Girona.
+P: Quina és la capital de l'Anoia?
+R: La capital de l'Anoia és Igualada.<END>
+
+C: ---
+
+PLA DE L'ESTANY
+
+El Pla de l'Estany és una comarca de la província de Girona. La seva capital és Banyoles.
+P: Quin riu dóna nom a la comarca de l'Anoia?
+R: El riu Anoia dóna nom a la comarca.<END>
+
+C: ---
+
+RIPOLLÈS
+
+El Ripollès és una comarca de la província de Girona. La seva capital és Ripoll.
+P: Per quina indústria és coneguda Igualada?
+R: Igualada és coneguda per la seva indústria del cuir i la blanqueria.<END>
+
+C: ---
+
+SELVA
+
+La Selva és una comarca de la província de Girona. La seva capital és Santa Coloma de Farners.
+P: Quina és la capital del Bages?
+R: La capital del Bages és Manresa.<END>
+
+C: ---
+
+ALTA RIBAGORÇA
+
+L'Alta Ribagorça és una comarca de la província de Lleida. La seva capital és el Pont de Suert.
+P: Quin riu travessa el Bages?
+R: El riu Llobregat travessa el Bages.<END>
+
+C: ---
+
+GARRIGUES
+
+Les Garrigues és una comarca de la província de Lleida. La seva capital és les Borges Blanques.
+P: Per què és famosa Cardona, al Bages?
+R: Cardona és famosa per la seva muntanya de sal, un aflorament salí únic a Europa, i pel seu castell medieval.<END>
+
+C: ---
+
+NOGUERA
+
+La Noguera és una comarca de la província de Lleida. La seva capital és Balaguer.
+P: Quina és la capital del Baix Llobregat?
+R: La capital del Baix Llobregat és Sant Feliu de Llobregat.<END>
+
+C: ---
+
+PALLARS JUSSÀ
+
+El Pallars Jussà és una comarca de la província de Lleida. La seva capital és Tremp.
+P: On desemboca el riu Llobregat?
+R: El riu Llobregat desemboca al mar Mediterrani al Baix Llobregat, a prop de Barcelona.<END>
+
+C: ---
+
+PALLARS SOBIRÀ
+
+El Pallars Sobirà és una comarca de la província de Lleida. La seva capital és Sort.
+P: Quin és el segon municipi més poblat de Catalunya?
+R: L'Hospitalet de Llobregat, al Baix Llobregat, és el segon municipi més poblat de Catalunya.<END>
+
+C: ---
+
+PLA D'URGELL
+
+El Pla d'Urgell és una comarca de la província de Lleida. La seva capital és Mollerussa.
+P: On es troba l'aeroport de Barcelona?
+R: L'aeroport de Barcelona es troba als municipis del Prat de Llobregat i Viladecans, al Baix Llobregat.<END>
+
+C: ---
+
+SEGARRA
+
+La Segarra és una comarca de la província de Lleida. La seva capital és Cervera.
+P: Quina és la capital del Barcelonès?
+R: La capital del Barcelonès és Barcelona.<END>
+
+C: ---
+
+SEGRIÀ
+
+El Segrià és una comarca de la província de Lleida. La seva capital és Lleida.
+P: Quants habitants té Barcelona?
+R: Barcelona té més d'1,6 milions d'habitants.<END>
+
+C: ---
+
+SOLSONÈS
+
+El Solsonès és una comarca de la província de Lleida. La seva capital és Solsona.
+P: Quins rius marquen els límits del Barcelonès?
+R: El riu Besòs marca el límit nord i el riu Llobregat marca el límit sud de la comarca.<END>
+
+C: ---
+
+URGELL
+
+L'Urgell és una comarca de la província de Lleida. La seva capital és Tàrrega.
+P: Quina és la tercera ciutat més poblada de Catalunya?
+R: Badalona, al Barcelonès, és la tercera ciutat més poblada de Catalunya.<END>
+
+C: ---
+
+VAL D'ARAN
+
+La Val d'Aran és una comarca de la província de Lleida. La seva capital és Vielha e Mijaran.
+P: Quina és la capital del Berguedà?
+R: La capital del Berguedà és Berga.<END>
+
+C: PROVÍNCIA DE TARRAGONA
+
+La província de Tarragona s'estén pel sud de Catalunya. Limita al nord amb les províncies de Barcelona i Lleida, a l'est amb el mar Mediterrani, al sud amb la Comunitat Valenciana i a l'oeste amb Aragó.
+P: Quina muntanya emblemàtica hi ha al Berguedà?
+R: El Pedraforca, amb 2.506 metres, és la muntanya més emblemàtica del Berguedà.<END>
+
+C: ---
+
+BAIX CAMP
+
+El Baix Camp és una comarca de la província de Tarragona. La seva capital és Reus.
+P: Quina festa del Berguedà és Patrimoni Immaterial de la Humanitat?
+R: La Patum de Berga és Patrimoni Immaterial de la Humanitat per la UNESCO.<END>
+
+C: ---
+
+BAIX EBRE
+
+El Baix Ebre és una comarca de la província de Tarragona. La seva capital és Tortosa.
+P: On neix el riu Llobregat?
+R: El riu Llobregat neix al Berguedà, a la zona del Moixeró.<END>
+
+C: ---
+
+BAIX PENEDÈS
+
+El Baix Penedès és una comarca de la província de Tarragona. La seva capital és el Vendrell.
+P: Quina és la capital del Garraf?
+R: La capital del Garraf és Vilanova i la Geltrú.<END>
+
+C: ---
+
+CONCA DE BARBERÀ
+
+La Conca de Barberà és una comarca de la província de Tarragona. La seva capital és Montblanc.
+P: Per què és coneguda Sitges?
+R: Sitges és coneguda per les seves platges, el festival internacional de cinema fantàstic i el seu Carnaval.<END>
+
+C: ---
+
+MONTSIÀ
+
+El Montsià és una comarca de la província de Tarragona. La seva capital és Amposta.
+P: Quina és la capital del Maresme?
+R: La capital del Maresme és Mataró.<END>
+
+C: ---
+
+PRIORAT
+
+El Priorat és una comarca de la província de Tarragona. La seva capital és Falset.
+P: Per quina fita històrica és important Mataró?
+R: El 1848 s'inaugurà la primera línia de ferrocarril de la península Ibèrica, entre Barcelona i Mataró.<END>
+
+C: ---
+
+RIBERA D'EBRE
+
+La Ribera d'Ebre és una comarca de la província de Tarragona. La seva capital és Móra d'Ebre.
+P: Quin riu marca el límit nord del Maresme?
+R: La Tordera marca el límit nord del Maresme amb la comarca de la Selva.<END>
+
+C: ---
+
+TARRAGONÈS
+
+El Tarragonès és una comarca de la província de Tarragona. La seva capital és Tarragona.
+P: Quina és la comarca més nova de Catalunya?
+R: El Moianès és la comarca més nova de Catalunya, creada l'any 2015.<END>
+
+C: ---
+
+TERRA ALTA
+
+La Terra Alta és una comarca de la província de Tarragona. La seva capital és Gandesa.
+P: Quina és la capital del Moianès?
+R: La capital del Moianès és Moià.<END>
+
+C: RIUS DE CATALUNYA
+
+Catalunya és drenada per diversos rius que van des dels Pirineus fins al Mediterrani o que formen part de la conca de l'Ebre. Els rius principals de Catalunya són l'Ebre, el Segre, el Llobregat, el Ter, la Noguera Pallaresa, la Noguera Ribagorçana, el Cardener, l'Anoia, el Fluvià, la Muga, la Tordera i el Besòs.
+P: Quina és la capital d'Osona?
+R: La capital d'Osona és Vic.<END>
+
+C: MUNTANYES I SERRES DE CATALUNYA
+
+Catalunya és un país de gran diversitat orogràfica. Els Pirineus formen la frontera natural al nord amb França i Andorra.
+P: Per quins productes és coneguda Vic?
+R: Vic és coneguda pels seus embotits, especialment el fuet i la llonganissa de Vic.<END>
+
+C: COSTES DE CATALUNYA
+
+La costa catalana s'estén al llarg d'uns 580 quilòmetres des del Cap de Creus, al nord, fins al delta de l'Ebre, al sud. La costa és molt variada: inclou penya-segats, cales rocoses, platges de sorra, deltes i maresmes.
+P: Quin poeta nacional de Catalunya va néixer a Osona?
+R: Jacint Verdaguer, el poeta nacional de Catalunya, va néixer a Folgueroles, a Osona.<END>
+
+C: PARCS NATURALS DE CATALUNYA
+
+Catalunya compta amb un Parc Nacional i nombrosos parcs naturals que protegeixen els principals espais naturals del país. La xarxa d'espais naturals protegits cobreix una part significativa del territori català.
+P: Quin riu travessa Osona?
+R: El riu Ter travessa Osona.<END>
+
+C: CIUTATS I POBLES DESTACATS DE CATALUNYA
+
+Barcelona és la capital de Catalunya i la primera ciutat del país. Té més d'1,6 milions d'habitants dins del terme municipal i més de 3 milions a l'àrea metropolitana.
+P: Quina és la capital del Vallès Occidental?
+R: La capital del Vallès Occidental és Sabadell.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE BARCELONA
+
+ALT PENEDÈS — POBLES I LLOCS D'INTERÈS
+
+L'Alt Penedès és una comarca de suaus turons coberts de vinyes. A part de la capital Vilafranca del Penedès i de Sant Sadurní d'Anoia, la comarca compta amb una xarxa de municipis rurals de gran valor paisatgístic i patrimonial.
+P: Quines dues grans ciutats hi ha al Vallès Occidental?
+R: Sabadell i Terrassa són les dues grans ciutats del Vallès Occidental.<END>
+
+C: ---
+
+ANOIA — POBLES I LLOCS D'INTERÈS
+
+L'Anoia és una comarca que combina zones industrials al voltant d'Igualada i municipis rurals de gran encant a la resta del territori. La comarca ha estat travessada des de l'antiguitat per la ruta entre la costa i l'interior.
+P: Per quina indústria van ser importants Sabadell i Terrassa?
+R: Sabadell i Terrassa van ser grans centres de la indústria tèxtil catalana.<END>
+
+C: ---
+
+BAGES — POBLES I LLOCS D'INTERÈS
+
+El Bages és una comarca de la Catalunya Central, amb Manresa com a gran centre urbà i una constel·lació de municipis i pobles que s'estenen per la vall del Llobregat i les seves serres. Cardona és un dels municipis més emblemàtics del Bages.
+P: Quina és la capital del Vallès Oriental?
+R: La capital del Vallès Oriental és Granollers.<END>
+
+C: ---
+
+OSONA — POBLES I LLOCS D'INTERÈS
+
+Osona és la comarca de la plana de Vic, una de les zones agràries i ramaderes més productives de Catalunya. La comarca té una densitat notable de nuclis rurals i masies.
+P: Quin parc natural hi ha al Vallès Oriental?
+R: El Parc Natural del Montseny abasta zones del Vallès Oriental, a més de la Selva i Osona.<END>
+
+C: ---
+
+VALLÈS OCCIDENTAL — POBLES I LLOCS D'INTERÈS
+
+El Vallès Occidental és una de les comarques més densament poblades de Catalunya. A part de les dues grans ciutats —Sabadell i Terrassa— la comarca acull nombrosos municipis de grandària mitjana.
+P: Quin municipi del Vallès Oriental és conegut per les aigües termals?
+R: Caldes de Montbui és coneguda per les seves aigües termals des de l'època romana.<END>
+
+C: ---
+
+VALLÈS ORIENTAL — POBLES I LLOCS D'INTERÈS
+
+El Vallès Oriental combina zones industrials i residencials a la plana del Besòs i zones rurals i de muntanya cap al Montseny. Mollet del Vallès és un municipi industrial i residencial proper a Barcelona.
+P: Quina és la capital de l'Alt Empordà?
+R: La capital de l'Alt Empordà és Figueres.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE GIRONA
+
+ALT EMPORDÀ — POBLES I LLOCS D'INTERÈS
+
+L'Alt Empordà és una comarca de gran bellesa paisatgística, amb la plana empordanesa al centre, els Pirineus al nord, i una costa espectacular al Cap de Creus. Cadaqués és un dels pobles més fotogènics de Catalunya.
+P: Per quin museu és famosa Figueres?
+R: Figueres és famosa pel Teatre-Museu Dalí, creat pel pintor Salvador Dalí, que hi va néixer el 1904.<END>
+
+C: ---
+
+BAIX EMPORDÀ — POBLES I LLOCS D'INTERÈS
+
+El Baix Empordà és una comarca de gran diversitat: plana interior fèrtil, cales i platges de la Costa Brava i una xarxa de pobles medievals ben conservats. Palafrugell és el centre comercial de les cales de la Costa Brava meridional.
+P: On és el punt més oriental de la península Ibèrica?
+R: El Cap de Creus, a l'Alt Empordà, és el punt més oriental de la península Ibèrica.<END>
+
+C: ---
+
+GARROTXA — POBLES I LLOCS D'INTERÈS
+
+La Garrotxa és una comarca de pobles petits i dispersos, molts d'ells construïts damunt o al costat de volcans extingits. L'entorn natural de la zona volcànica és el principal atractiu de la comarca.
+P: Quin vent caracteritza l'Alt Empordà?
+R: La tramuntana, un vent fred i sec del nord, és el vent dominant de l'Alt Empordà.<END>
+
+C: ---
+
+RIPOLLÈS — POBLES I LLOCS D'INTERÈS
+
+El Ripollès és una comarca de muntanya amb una densa xarxa de pobles pirinencs distribuïts per les valls del Ter, del Freser i dels seus afluents. Camprodon és una vila de muntanya a la Vall de Camprodon, a la capçalera del Ter.
+P: Quina és la capital del Baix Empordà?
+R: La capital del Baix Empordà és la Bisbal d'Empordà.<END>
+
+C: ---
+
+SELVA — POBLES I LLOCS D'INTERÈS
+
+La Selva és una comarca de gran diversitat, amb la Costa Brava al llevant, les terres planes de l'interior i les estribacions del Montseny a l'oest. Tossa de Mar és una de les viles medievals de la Costa Brava amb major encant.
+P: Quines illes formen un parc natural marí al Baix Empordà?
+R: Les Illes Medes, davant de l'Estartit, formen un parc natural marí al Baix Empordà.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE LLEIDA
+
+PALLARS SOBIRÀ — POBLES I LLOCS D'INTERÈS
+
+El Pallars Sobirà és la comarca pirinenca per excel·lència de la Lleida interior. Els seus pobles, construïts amb pedra gris i coberts de lloses, s'encasten a les valls dels rius Noguera Pallaresa, Noguera de Cardós i Noguera de Tor.
+P: Per quin producte és famosa Palamós?
+R: Palamós és famosa per la seva gamba.<END>
+
+C: ---
+
+VAL D'ARAN — POBLES I LLOCS D'INTERÈS
+
+La Val d'Aran és una comarca única, per la seva situació geogràfica al vessant atlàntic dels Pirineus, la seva llengua pròpia i el seu paisatge de valls verdes i altes muntanyes. Vielha e Mijaran és la capital de la Val d'Aran.
+P: Quina és la capital de la Cerdanya?
+R: La capital de la Cerdanya és Puigcerdà.<END>
+
+C: ---
+
+PALLARS JUSSÀ — POBLES I LLOCS D'INTERÈS
+
+El Pallars Jussà és una comarca de transició entre la muntanya pirinenca del nord i les terres planes del sud. La conca de Tremp és el centre geogràfic de la comarca.
+P: Quin riu neix a la Cerdanya?
+R: El riu Segre neix a la Cerdanya, a les muntanyes del nord.<END>
+
+C: ---
+
+CERDANYA — POBLES I LLOCS D'INTERÈS
+
+La Cerdanya és una gran plana pirinenca a uns 1. 100 metres d'altitud, envoltada de muntanyes i travessada pel Segre.
+P: Quin municipi de la Cerdanya és un enclavament dins de França?
+R: Llívia és un municipi espanyol enclavat dins de territori francès.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE TARRAGONA
+
+BAIX CAMP — POBLES I LLOCS D'INTERÈS
+
+El Baix Camp és una comarca que combina la costa de la Costa Daurada, els municipis industrials i turístics del litoral i les zones rurals de l'interior. Reus és la capital comarcal i la segona ciutat de la província de Tarragona.
+P: Quina és la capital de la Garrotxa?
+R: La capital de la Garrotxa és Olot.<END>
+
+C: ---
+
+TARRAGONÈS — POBLES I LLOCS D'INTERÈS
+
+El Tarragonès és la comarca que dona nom a la província de Tarragona. A més de la capital, la comarca conté municipis turístics, industrials i residencials.
+P: Quants volcans extingits protegeix el Parc Natural de la Zona Volcànica de la Garrotxa?
+R: El Parc Natural de la Zona Volcànica de la Garrotxa protegeix més de 40 volcans extingits.<END>
+
+C: ---
+
+CONCA DE BARBERÀ — POBLES I LLOCS D'INTERÈS
+
+La Conca de Barberà és una comarca de l'interior de Tarragona, amb un paisatge de valls, vinyes i nuclis medievals. Montblanc és la capital i una de les viles medievals millor conservades de Catalunya.
+P: Quin és el volcà més gran de la península Ibèrica?
+R: El volcà del Croscat, a la Garrotxa, és el volcà més gran de la península Ibèrica.<END>
+
+C: ---
+
+PRIORAT — POBLES I LLOCS D'INTERÈS
+
+El Priorat és una comarca de l'interior de Tarragona, famosa pels seus vins de gran qualitat i per un paisatge de muntanyes i valls de gran bellesa. Falset és la capital comarcal i el principal centre de serveis.
+P: Quina és la capital del Gironès?
+R: La capital del Gironès és Girona.<END>
+
+C: ---
+
+TERRA ALTA I RIBERA D'EBRE — POBLES I LLOCS D'INTERÈS
+
+La Terra Alta i la Ribera d'Ebre comparteixen el paisatge de l'Ebre i les seves valls com a element comú. Les Terres de l'Ebre és el nom col·lectiu que designa les quatre comarques del sud de la província de Tarragona.
+P: Quins rius passen per Girona?
+R: El Ter i l'Onyar passen per Girona. L'Onyar separa el barri vell del centre modern.<END>
+
+C: GEOGRAFÍA FÍSICA: DETALLS COMPLEMENTARIS
+
+EL SISTEMA FLUVIAL CATALÀ
+
+El sistema fluvial de Catalunya és complex i es distribueix entre la conca hidrogràfica de l'Ebre, a l'interior, i les conques pirinenques i costaneres que aboquen directament al Mediterrani. La conca de l'Ebre és la més gran de la península Ibèrica.
+P: Quin rècord arquitectònic té la catedral de Girona?
+R: La catedral de Girona té la nau gòtica més ampla del món.<END>
+
+C: ELS PIRINEUS CATALANS
+
+Els Pirineus catalans s'estenen des de la Val d'Aran, a l'ouest, fins al Cap de Creus, a l'est. La serralada pirinenca forma la frontera natural entre Catalunya i França, amb Andorra com a estat sobirà encastat entre ambdues.
+P: Quina és la capital del Pla de l'Estany?
+R: La capital del Pla de l'Estany és Banyoles.<END>
+
+C: LA DEPRESSIÓ CENTRAL CATALANA
+
+La Depressió Central és la gran plana que ocupa l'interior de Catalunya, entre els Pirineus al nord i la serralada Prelitoral al sud. Comprèn les planes de Lleida i el Bages, i les terres de transició de l'Urgell i la Segarra.
+P: Quin llac natural hi ha al Pla de l'Estany?
+R: L'estany de Banyoles és el llac natural més gran de Catalunya i el segon de la península Ibèrica.<END>
+
+C: REPÀS GENERAL: DADES I CURIOSITATS DE CATALUNYA
+
+Catalunya i les seves comarques: repàs de dades
+
+La Generalitat de Catalunya és l'administració autonòmica de Catalunya. El Parlament de Catalunya és la cambra legislativa.
+P: Per quin esdeveniment esportiu és conegut l'estany de Banyoles?
+R: L'estany de Banyoles va ser la seu de les proves de rem dels Jocs Olímpics de Barcelona de 1992.<END>
+
+C: ENTRADES ENCICLOPÈDIQUES DE MUNICIPIS I LLOCS DE CATALUNYA
+
+Aigüestortes. Zona d'alta muntanya al Pallars Sobirà, als Pirineus catalans.
+P: Quina és la capital del Ripollès?
+R: La capital del Ripollès és Ripoll.<END>
+
+C: P: Quin és el museu del vi de Vilafranca del Penedès. R: El Museu de les Cultures del Vi de Catalunya, Vinseum, a Vilafranca del Penedès, és un dels museus del vi més importants d'Europa.
+P: Per quin monument és famós Ripoll?
+R: Ripoll és famosa pel Monestir de Santa Maria de Ripoll, un dels monuments romànics més importants de la península Ibèrica.<END>
+
+C: GENERALITATS DE CATALUNYA
+
+Catalunya és una comunitat autònoma situada al nord-est de la península Ibèrica. Limita al nord amb França i Andorra, a l'est amb el mar Mediterrani, al sud amb la Comunitat Valenciana i a l'oest amb Aragó.
+P: On neix el riu Ter?
+R: El riu Ter neix al Ripollès, a la zona del Costabona.<END>
+
+C: PROVÍNCIA DE BARCELONA
+
+La província de Barcelona és la més poblada de Catalunya i d'Espanya. S'estén per la part central i oriental de Catalunya.
+P: Com s'accedeix a la Vall de Núria?
+R: A la Vall de Núria s'hi accedeix en cremallera des de Ribes de Freser.<END>
+
+C: ---
+
+ANOIA
+
+L'Anoia és una comarca de la província de Barcelona. La seva capital és Igualada.
+P: Quina és la capital de l'Alt Urgell?
+R: La capital de l'Alt Urgell és la Seu d'Urgell.<END>
+
+C: ---
+
+BAGES
+
+El Bages és una comarca de la província de Barcelona. La seva capital és Manresa.
+P: Qui és un dels coprínceps d'Andorra?
+R: El bisbe de la Seu d'Urgell és un dels coprínceps d'Andorra, juntament amb el president de la República Francesa.<END>
+
+C: ---
+
+BAIX LLOBREGAT
+
+El Baix Llobregat és una comarca de la província de Barcelona. La seva capital és Sant Feliu de Llobregat.
+P: Quina és la comarca menys poblada de Catalunya?
+R: L'Alta Ribagorça és la comarca menys poblada de Catalunya.<END>
+
+C: ---
+
+BARCELONÈS
+
+El Barcelonès és la comarca de la província de Barcelona que engloba la capital de Catalunya. La seva capital és Barcelona.
+P: Per quin patrimoni és famosa la Vall de Boí?
+R: La Vall de Boí és famosa pel seu conjunt d'esglésies romàniques del segle XII, declarades Patrimoni de la Humanitat per la UNESCO.<END>
+
+C: ---
+
+BERGUEDÀ
+
+El Berguedà és una comarca de la província de Barcelona. La seva capital és Berga.
+P: Quina és la capital de les Garrigues?
+R: La capital de les Garrigues és les Borges Blanques.<END>
+
+C: ---
+
+GARRAF
+
+El Garraf és una comarca de la província de Barcelona. La seva capital és Vilanova i la Geltrú.
+P: Per quin producte és coneguda la comarca de les Garrigues?
+R: Les Garrigues és coneguda per la producció d'oli d'oliva de gran qualitat, amb Denominació d'Origen pròpia.<END>
+
+C: ---
+
+MARESME
+
+El Maresme és una comarca de la província de Barcelona. La seva capital és Mataró.
+P: Quina és la capital de la Noguera?
+R: La capital de la Noguera és Balaguer.<END>
+
+C: ---
+
+MOIANÈS
+
+El Moianès és la comarca més nova de Catalunya, creada l'any 2015. La seva capital és Moià.
+P: De quins rius pren el nom la comarca de la Noguera?
+R: La comarca de la Noguera pren el nom dels rius Noguera Pallaresa i Noguera Ribagorçana.<END>
+
+C: ---
+
+OSONA
+
+Osona és una comarca de la província de Barcelona. La seva capital és Vic.
+P: Quina és la capital del Pallars Jussà?
+R: La capital del Pallars Jussà és Tremp.<END>
+
+C: ---
+
+VALLÈS OCCIDENTAL
+
+El Vallès Occidental és una comarca de la província de Barcelona. La seva capital és Sabadell.
+P: Quin jaciment paleontològic hi ha al Pallars Jussà?
+R: Isona i Conca Dellà és famosa pel seu jaciment de dinosaures, on s'han trobat ous i ossos d'importància científica.<END>
+
+C: ---
+
+VALLÈS ORIENTAL
+
+El Vallès Oriental és una comarca de la província de Barcelona. La seva capital és Granollers.
+P: Quina és la capital del Pallars Sobirà?
+R: La capital del Pallars Sobirà és Sort.<END>
+
+C: PROVÍNCIA DE GIRONA
+
+La província de Girona s'estén pel nord-est de Catalunya. Limita al nord amb França, a l'est amb el mar Mediterrani, al sud amb la província de Barcelona i a l'ouest amb la de Lleida.
+P: On es troba la Pica d'Estats, el cim més alt de Catalunya?
+R: La Pica d'Estats, amb 3.143 metres, es troba al Pallars Sobirà.<END>
+
+C: ---
+
+BAIX EMPORDÀ
+
+El Baix Empordà és una comarca de la província de Girona. La seva capital és la Bisbal d'Empordà.
+P: Per quin esport és conegut el riu Noguera Pallaresa al Pallars Sobirà?
+R: La Noguera Pallaresa és un dels millors rius d'Europa per al ràfting i els esports d'aigües braves.<END>
+
+C: ---
+
+CERDANYA
+
+La Cerdanya és una comarca de la província de Girona. La seva capital és Puigcerdà.
+P: Quina és la capital del Pla d'Urgell?
+R: La capital del Pla d'Urgell és Mollerussa.<END>
+
+C: ---
+
+GARROTXA
+
+La Garrotxa és una comarca de la província de Girona. La seva capital és Olot.
+P: Quina infraestructura permet el reg al Pla d'Urgell?
+R: El Canal d'Urgell és la infraestructura hidràulica que permet el reg de les terres del Pla d'Urgell.<END>
+
+C: ---
+
+GIRONÈS
+
+El Gironès és una comarca de la província de Girona. La seva capital és Girona.
+P: Quina és la capital de la Segarra?
+R: La capital de la Segarra és Cervera.<END>
+
+C: ---
+
+PLA DE L'ESTANY
+
+El Pla de l'Estany és una comarca de la província de Girona. La seva capital és Banyoles.
+P: Quina és la capital del Segrià?
+R: La capital del Segrià és Lleida.<END>
+
+C: ---
+
+RIPOLLÈS
+
+El Ripollès és una comarca de la província de Girona. La seva capital és Ripoll.
+P: Quin és el monument més emblemàtic de Lleida?
+R: La catedral de la Seu Vella, sobre un turó al costat del Segre, és el monument més emblemàtic de Lleida.<END>
+
+C: ---
+
+SELVA
+
+La Selva és una comarca de la província de Girona. La seva capital és Santa Coloma de Farners.
+P: Per quins productes agrícoles és conegut el Segrià?
+R: El Segrià és conegut per la producció de fruita dolça: peres, pomes, préssecs i nectarines.<END>
+
+C: ---
+
+ALTA RIBAGORÇA
+
+L'Alta Ribagorça és una comarca de la província de Lleida. La seva capital és el Pont de Suert.
+P: Quina és la capital del Solsonès?
+R: La capital del Solsonès és Solsona.<END>
+
+C: ---
+
+GARRIGUES
+
+Les Garrigues és una comarca de la província de Lleida. La seva capital és les Borges Blanques.
+P: Quina és la capital de l'Urgell?
+R: La capital de l'Urgell és Tàrrega.<END>
+
+C: ---
+
+NOGUERA
+
+La Noguera és una comarca de la província de Lleida. La seva capital és Balaguer.
+P: Per quin producte és famosa Agramunt, a l'Urgell?
+R: Agramunt és famosa pel seu torró artesanal, un producte de gran tradició.<END>
+
+C: ---
+
+PALLARS JUSSÀ
+
+El Pallars Jussà és una comarca de la província de Lleida. La seva capital és Tremp.
+P: Quina és la capital de la Val d'Aran?
+R: La capital de la Val d'Aran és Vielha e Mijaran.<END>
+
+C: ---
+
+PALLARS SOBIRÀ
+
+El Pallars Sobirà és una comarca de la província de Lleida. La seva capital és Sort.
+P: Quin riu neix a la Val d'Aran?
+R: El riu Garona, que a França s'anomena Garonne, neix a la Val d'Aran i flueix cap a l'Atlàntic.<END>
+
+C: ---
+
+PLA D'URGELL
+
+El Pla d'Urgell és una comarca de la província de Lleida. La seva capital és Mollerussa.
+P: Quina llengua és pròpia de la Val d'Aran?
+R: L'aranès, una varietat de l'occità, és la llengua pròpia de la Val d'Aran, cooficial amb el català i el castellà.<END>
+
+C: ---
+
+SEGARRA
+
+La Segarra és una comarca de la província de Lleida. La seva capital és Cervera.
+P: Quina és la principal estació d'esquí de la Val d'Aran?
+R: Baqueira-Beret és la principal estació d'esquí de la Val d'Aran i una de les més importants dels Pirineus.<END>
+
+C: ---
+
+SEGRIÀ
+
+El Segrià és una comarca de la província de Lleida. La seva capital és Lleida.
+P: Quina és la capital de l'Alt Camp?
+R: La capital de l'Alt Camp és Valls.<END>
+
+C: ---
+
+SOLSONÈS
+
+El Solsonès és una comarca de la província de Lleida. La seva capital és Solsona.
+P: Per quina tradició és famosa Valls?
+R: Valls és famosa per la tradició castellera: les colles castelleres de Valls són de les més antigues i prestigioses de Catalunya.<END>
+
+C: ---
+
+URGELL
+
+L'Urgell és una comarca de la província de Lleida. La seva capital és Tàrrega.
+P: Quina és la capital del Baix Camp?
+R: La capital del Baix Camp és Reus.<END>
+
+C: ---
+
+VAL D'ARAN
+
+La Val d'Aran és una comarca de la província de Lleida. La seva capital és Vielha e Mijaran.
+P: Qui va néixer a Reus?
+R: Antoni Gaudí, l'arquitecte més famós de Catalunya, va néixer a Reus.<END>
+
+C: PROVÍNCIA DE TARRAGONA
+
+La província de Tarragona s'estén pel sud de Catalunya. Limita al nord amb les províncies de Barcelona i Lleida, a l'est amb el mar Mediterrani, al sud amb la Comunitat Valenciana i a l'oeste amb Aragó.
+P: On es troba PortAventura World?
+R: PortAventura World es troba a Salou i a la Vila-seca, al Baix Camp.<END>
+
+C: ---
+
+BAIX CAMP
+
+El Baix Camp és una comarca de la província de Tarragona. La seva capital és Reus.
+P: Quina és la capital del Baix Ebre?
+R: La capital del Baix Ebre és Tortosa.<END>
+
+C: ---
+
+BAIX EBRE
+
+El Baix Ebre és una comarca de la província de Tarragona. La seva capital és Tortosa.
+P: Quin riu travessa el Baix Ebre?
+R: L'Ebre travessa el Baix Ebre i passa per Tortosa.<END>
+
+C: ---
+
+BAIX PENEDÈS
+
+El Baix Penedès és una comarca de la província de Tarragona. La seva capital és el Vendrell.
+P: Quina és la capital del Baix Penedès?
+R: La capital del Baix Penedès és el Vendrell.<END>
+
+C: ---
+
+CONCA DE BARBERÀ
+
+La Conca de Barberà és una comarca de la província de Tarragona. La seva capital és Montblanc.
+P: Quin músic famós va néixer al Vendrell?
+R: Pau Casals, el violoncel·lista més important del segle XX, va néixer al Vendrell.<END>
+
+C: ---
+
+MONTSIÀ
+
+El Montsià és una comarca de la província de Tarragona. La seva capital és Amposta.
+P: Quina és la capital de la Conca de Barberà?
+R: La capital de la Conca de Barberà és Montblanc.<END>
+
+C: ---
+
+PRIORAT
+
+El Priorat és una comarca de la província de Tarragona. La seva capital és Falset.
+P: Quin monestir important hi ha prop de la Conca de Barberà?
+R: El Monestir de Poblet, declarat Patrimoni de la Humanitat per la UNESCO, es troba als límits de la Conca de Barberà.<END>
+
+C: ---
+
+RIBERA D'EBRE
+
+La Ribera d'Ebre és una comarca de la província de Tarragona. La seva capital és Móra d'Ebre.
+P: Quina és la capital del Montsià?
+R: La capital del Montsià és Amposta.<END>
+
+C: ---
+
+TARRAGONÈS
+
+El Tarragonès és una comarca de la província de Tarragona. La seva capital és Tarragona.
+P: On es troba el delta de l'Ebre?
+R: El delta de l'Ebre es troba principalment a les comarques del Montsià i el Baix Ebre.<END>
+
+C: ---
+
+TERRA ALTA
+
+La Terra Alta és una comarca de la província de Tarragona. La seva capital és Gandesa.
+P: Quin és el municipi més meridional de Catalunya?
+R: L'Alcanar, al Montsià, és el municipi més meridional de Catalunya.<END>
+
+C: RIUS DE CATALUNYA
+
+Catalunya és drenada per diversos rius que van des dels Pirineus fins al Mediterrani o que formen part de la conca de l'Ebre. Els rius principals de Catalunya són l'Ebre, el Segre, el Llobregat, el Ter, la Noguera Pallaresa, la Noguera Ribagorçana, el Cardener, l'Anoia, el Fluvià, la Muga, la Tordera i el Besòs.
+P: Quina és la capital del Priorat?
+R: La capital del Priorat és Falset.<END>
+
+C: MUNTANYES I SERRES DE CATALUNYA
+
+Catalunya és un país de gran diversitat orogràfica. Els Pirineus formen la frontera natural al nord amb França i Andorra.
+P: Per quin producte és famosa la comarca del Priorat?
+R: El Priorat és famós pels seus vins de gran qualitat, elaborats sobre llicorella, amb Denominació d'Origen Qualificada.<END>
+
+C: COSTES DE CATALUNYA
+
+La costa catalana s'estén al llarg d'uns 580 quilòmetres des del Cap de Creus, al nord, fins al delta de l'Ebre, al sud. La costa és molt variada: inclou penya-segats, cales rocoses, platges de sorra, deltes i maresmes.
+P: Quina és la capital de la Ribera d'Ebre?
+R: La capital de la Ribera d'Ebre és Móra d'Ebre.<END>
+
+C: PARCS NATURALS DE CATALUNYA
+
+Catalunya compta amb un Parc Nacional i nombrosos parcs naturals que protegeixen els principals espais naturals del país. La xarxa d'espais naturals protegits cobreix una part significativa del territori català.
+P: Quin fet històric important va ocórrer a la Ribera d'Ebre?
+R: La batalla de l'Ebre, la més llarga de la Guerra Civil Espanyola, va tenir lloc a la Ribera d'Ebre el 1938.<END>
+
+C: CIUTATS I POBLES DESTACATS DE CATALUNYA
+
+Barcelona és la capital de Catalunya i la primera ciutat del país. Té més d'1,6 milions d'habitants dins del terme municipal i més de 3 milions a l'àrea metropolitana.
+P: Quina és la capital del Tarragonès?
+R: La capital del Tarragonès és Tarragona.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE BARCELONA
+
+ALT PENEDÈS — POBLES I LLOCS D'INTERÈS
+
+L'Alt Penedès és una comarca de suaus turons coberts de vinyes. A part de la capital Vilafranca del Penedès i de Sant Sadurní d'Anoia, la comarca compta amb una xarxa de municipis rurals de gran valor paisatgístic i patrimonial.
+P: Per quin patrimoni és destacada Tarragona?
+R: Tarragona destaca pel seu conjunt arqueològic romà, declarat Patrimoni de la Humanitat, que inclou l'amfiteatre, el circ, les muralles i l'aqüeducte.<END>
+
+C: ---
+
+ANOIA — POBLES I LLOCS D'INTERÈS
+
+L'Anoia és una comarca que combina zones industrials al voltant d'Igualada i municipis rurals de gran encant a la resta del territori. La comarca ha estat travessada des de l'antiguitat per la ruta entre la costa i l'interior.
+P: Quin nom tenia Tarragona en època romana?
+R: En època romana, Tarragona s'anomenava Tarraco i era la capital de la Hispania Citerior.<END>
+
+C: ---
+
+BAGES — POBLES I LLOCS D'INTERÈS
+
+El Bages és una comarca de la Catalunya Central, amb Manresa com a gran centre urbà i una constel·lació de municipis i pobles que s'estenen per la vall del Llobregat i les seves serres. Cardona és un dels municipis més emblemàtics del Bages.
+P: Quina és la capital de la Terra Alta?
+R: La capital de la Terra Alta és Gandesa.<END>
+
+C: ---
+
+OSONA — POBLES I LLOCS D'INTERÈS
+
+Osona és la comarca de la plana de Vic, una de les zones agràries i ramaderes més productives de Catalunya. La comarca té una densitat notable de nuclis rurals i masies.
+P: Per quins productes és coneguda la Terra Alta?
+R: La Terra Alta és coneguda per l'oli d'oliva i els vins, especialment els blancs de garnatxa blanc.<END>
+
+C: ---
+
+VALLÈS OCCIDENTAL — POBLES I LLOCS D'INTERÈS
+
+El Vallès Occidental és una de les comarques més densament poblades de Catalunya. A part de les dues grans ciutats —Sabadell i Terrassa— la comarca acull nombrosos municipis de grandària mitjana.
+P: Quin és el riu més caudalós que travessa Catalunya?
+R: L'Ebre és el riu més caudalós que travessa Catalunya.<END>
+
+C: ---
+
+VALLÈS ORIENTAL — POBLES I LLOCS D'INTERÈS
+
+El Vallès Oriental combina zones industrials i residencials a la plana del Besòs i zones rurals i de muntanya cap al Montseny. Mollet del Vallès és un municipi industrial i residencial proper a Barcelona.
+P: On neix el riu Llobregat?
+R: El Llobregat neix al Berguedà, als peus del Pedraforca.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE GIRONA
+
+ALT EMPORDÀ — POBLES I LLOCS D'INTERÈS
+
+L'Alt Empordà és una comarca de gran bellesa paisatgística, amb la plana empordanesa al centre, els Pirineus al nord, i una costa espectacular al Cap de Creus. Cadaqués és un dels pobles més fotogènics de Catalunya.
+P: On desemboca el riu Ter?
+R: El riu Ter desemboca al Mediterrani al Baix Empordà, prop de l'Estartit.<END>
+
+C: ---
+
+BAIX EMPORDÀ — POBLES I LLOCS D'INTERÈS
+
+El Baix Empordà és una comarca de gran diversitat: plana interior fèrtil, cales i platges de la Costa Brava i una xarxa de pobles medievals ben conservats. Palafrugell és el centre comercial de les cales de la Costa Brava meridional.
+P: Quin riu de Catalunya vessa aigües a l'Atlàntic?
+R: El Garona, que neix a la Val d'Aran, és l'únic riu de Catalunya que vessa aigües a l'Atlàntic.<END>
+
+C: ---
+
+GARROTXA — POBLES I LLOCS D'INTERÈS
+
+La Garrotxa és una comarca de pobles petits i dispersos, molts d'ells construïts damunt o al costat de volcans extingits. L'entorn natural de la zona volcànica és el principal atractiu de la comarca.
+P: Quin és el principal afluent de l'Ebre a Catalunya?
+R: El Segre és el principal afluent de l'Ebre a Catalunya.<END>
+
+C: ---
+
+RIPOLLÈS — POBLES I LLOCS D'INTERÈS
+
+El Ripollès és una comarca de muntanya amb una densa xarxa de pobles pirinencs distribuïts per les valls del Ter, del Freser i dels seus afluents. Camprodon és una vila de muntanya a la Vall de Camprodon, a la capçalera del Ter.
+P: Quins rius formen el Besòs?
+R: El Besòs neix de la confluència del Congost i el Mogent, al Vallès Oriental.<END>
+
+C: ---
+
+SELVA — POBLES I LLOCS D'INTERÈS
+
+La Selva és una comarca de gran diversitat, amb la Costa Brava al llevant, les terres planes de l'interior i les estribacions del Montseny a l'oest. Tossa de Mar és una de les viles medievals de la Costa Brava amb major encant.
+P: Per quin esport és famosa la Noguera Pallaresa?
+R: La Noguera Pallaresa és famosa per la pràctica del ràfting i els esports d'aigues braves.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE LLEIDA
+
+PALLARS SOBIRÀ — POBLES I LLOCS D'INTERÈS
+
+El Pallars Sobirà és la comarca pirinenca per excel·lència de la Lleida interior. Els seus pobles, construïts amb pedra gris i coberts de lloses, s'encasten a les valls dels rius Noguera Pallaresa, Noguera de Cardós i Noguera de Tor.
+P: On desemboca la Muga?
+R: La Muga desemboca a la badia de Roses, a l'Alt Empordà.<END>
+
+C: ---
+
+VAL D'ARAN — POBLES I LLOCS D'INTERÈS
+
+La Val d'Aran és una comarca única, per la seva situació geogràfica al vessant atlàntic dels Pirineus, la seva llengua pròpia i el seu paisatge de valls verdes i altes muntanyes. Vielha e Mijaran és la capital de la Val d'Aran.
+P: Quina és la muntanya més alta de Catalunya?
+R: La Pica d'Estats, amb 3.143 metres al Pallars Sobirà, és la muntanya més alta de Catalunya.<END>
+
+C: ---
+
+PALLARS JUSSÀ — POBLES I LLOCS D'INTERÈS
+
+El Pallars Jussà és una comarca de transició entre la muntanya pirinenca del nord i les terres planes del sud. La conca de Tremp és el centre geogràfic de la comarca.
+P: Quina és la muntanya més emblemàtica del Berguedà?
+R: El Pedraforca, amb 2.506 metres i la seva silueta de doble cim, és la muntanya més emblemàtica del Berguedà.<END>
+
+C: ---
+
+CERDANYA — POBLES I LLOCS D'INTERÈS
+
+La Cerdanya és una gran plana pirinenca a uns 1. 100 metres d'altitud, envoltada de muntanyes i travessada pel Segre.
+P: Quin cim és el punt més alt de la serralada Prelitoral?
+R: El Turó de l'Home, al Montseny, a 1.706 metres, és el punt més alt de la serralada Prelitoral.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE TARRAGONA
+
+BAIX CAMP — POBLES I LLOCS D'INTERÈS
+
+El Baix Camp és una comarca que combina la costa de la Costa Daurada, els municipis industrials i turístics del litoral i les zones rurals de l'interior. Reus és la capital comarcal i la segona ciutat de la província de Tarragona.
+P: Quina és la patrona de Catalunya?
+R: La Mare de Déu de Montserrat, la Moreneta, al Monestir de Montserrat, és la patrona de Catalunya.<END>
+
+C: ---
+
+TARRAGONÈS — POBLES I LLOCS D'INTERÈS
+
+El Tarragonès és la comarca que dona nom a la província de Tarragona. A més de la capital, la comarca conté municipis turístics, industrials i residencials.
+P: Quin parc natural protegeix el Cadí i el Moixeró?
+R: El Parc Natural del Cadí-Moixeró protegeix la serralada del Cadí i el Moixeró, entre el Berguedà, la Cerdanya i l'Alt Urgell.<END>
+
+C: ---
+
+CONCA DE BARBERÀ — POBLES I LLOCS D'INTERÈS
+
+La Conca de Barberà és una comarca de l'interior de Tarragona, amb un paisatge de valls, vinyes i nuclis medievals. Montblanc és la capital i una de les viles medievals millor conservades de Catalunya.
+P: On comença la Costa Brava?
+R: La Costa Brava comença a Blanes i s'estén fins al Cap de Creus, a l'extrem nord de la província de Girona.<END>
+
+C: ---
+
+PRIORAT — POBLES I LLOCS D'INTERÈS
+
+El Priorat és una comarca de l'interior de Tarragona, famosa pels seus vins de gran qualitat i per un paisatge de muntanyes i valls de gran bellesa. Falset és la capital comarcal i el principal centre de serveis.
+P: Quin és el punt més oriental de la península Ibèrica?
+R: El Cap de Creus, al nord de la Costa Brava, és el punt més oriental de la península Ibèrica.<END>
+
+C: ---
+
+TERRA ALTA I RIBERA D'EBRE — POBLES I LLOCS D'INTERÈS
+
+La Terra Alta i la Ribera d'Ebre comparteixen el paisatge de l'Ebre i les seves valls com a element comú. Les Terres de l'Ebre és el nom col·lectiu que designa les quatre comarques del sud de la província de Tarragona.
+P: Per quin color és famosa la Costa Daurada?
+R: La Costa Daurada pren el nom del color daurat de les seves platges de sorra.<END>
+
+C: GEOGRAFÍA FÍSICA: DETALLS COMPLEMENTARIS
+
+EL SISTEMA FLUVIAL CATALÀ
+
+El sistema fluvial de Catalunya és complex i es distribueix entre la conca hidrogràfica de l'Ebre, a l'interior, i les conques pirinenques i costaneres que aboquen directament al Mediterrani. La conca de l'Ebre és la més gran de la península Ibèrica.
+P: On es troba el delta de l'Ebre?
+R: El delta de l'Ebre es troba a les comarques del Montsià i el Baix Ebre, on l'Ebre desemboca al Mediterrani.<END>
+
+C: ELS PIRINEUS CATALANS
+
+Els Pirineus catalans s'estenen des de la Val d'Aran, a l'ouest, fins al Cap de Creus, a l'est. La serralada pirinenca forma la frontera natural entre Catalunya i França, amb Andorra com a estat sobirà encastat entre ambdues.
+P: Quin municipi de la Costa Brava és el més conegut internacionalment?
+R: Cadaqués és un dels municipis de la Costa Brava més coneguts i visitats internacionalment.<END>
+
+C: LA DEPRESSIÓ CENTRAL CATALANA
+
+La Depressió Central és la gran plana que ocupa l'interior de Catalunya, entre els Pirineus al nord i la serralada Prelitoral al sud. Comprèn les planes de Lleida i el Bages, i les terres de transició de l'Urgell i la Segarra.
+P: Quin és l'únic parc nacional de Catalunya?
+R: El Parc Nacional d'Aigüestortes i Estany de Sant Maurici és l'únic parc nacional de Catalunya.<END>
+
+C: REPÀS GENERAL: DADES I CURIOSITATS DE CATALUNYA
+
+Catalunya i les seves comarques: repàs de dades
+
+La Generalitat de Catalunya és l'administració autonòmica de Catalunya. El Parlament de Catalunya és la cambra legislativa.
+P: On es troba el Parc Nacional d'Aigüestortes?
+R: El Parc Nacional d'Aigüestortes es troba principalment al Pallars Sobirà, als Pirineus.<END>
+
+C: ENTRADES ENCICLOPÈDIQUES DE MUNICIPIS I LLOCS DE CATALUNYA
+
+Aigüestortes. Zona d'alta muntanya al Pallars Sobirà, als Pirineus catalans.
+P: Quin parc natural protegeix la zona volcànica d'Olot?
+R: El Parc Natural de la Zona Volcànica de la Garrotxa protegeix els volcans extingits de la comarca de la Garrotxa.<END>
+
+C: P: Quin és el museu del vi de Vilafranca del Penedès. R: El Museu de les Cultures del Vi de Catalunya, Vinseum, a Vilafranca del Penedès, és un dels museus del vi més importants d'Europa.
+P: Quin parc natural és Reserva de la Biosfera de la UNESCO?
+R: El Parc Natural del Montseny és Reserva de la Biosfera de la UNESCO des de 1978.<END>
+
+C: GENERALITATS DE CATALUNYA
+
+Catalunya és una comunitat autònoma situada al nord-est de la península Ibèrica. Limita al nord amb França i Andorra, a l'est amb el mar Mediterrani, al sud amb la Comunitat Valenciana i a l'oest amb Aragó.
+P: Quin espai natural metropolità té Barcelona?
+R: El Parc Natural de Collserola és el principal espai verd metropolità de Barcelona.<END>
+
+C: PROVÍNCIA DE BARCELONA
+
+La província de Barcelona és la més poblada de Catalunya i d'Espanya. S'estén per la part central i oriental de Catalunya.
+P: Quina és la capital de Catalunya?
+R: La capital de Catalunya és Barcelona.<END>
+
+C: ---
+
+ANOIA
+
+L'Anoia és una comarca de la província de Barcelona. La seva capital és Igualada.
+P: Quantes comarques té Catalunya?
+R: Catalunya té 42 comarques.<END>
+
+C: ---
+
+BAGES
+
+El Bages és una comarca de la província de Barcelona. La seva capital és Manresa.
+P: Quantes províncies té Catalunya?
+R: Catalunya té quatre províncies: Barcelona, Girona, Lleida i Tarragona.<END>
+
+C: ---
+
+BAIX LLOBREGAT
+
+El Baix Llobregat és una comarca de la província de Barcelona. La seva capital és Sant Feliu de Llobregat.
+P: Quina és la província més extensa de Catalunya?
+R: La província de Lleida és la més extensa de Catalunya.<END>
+
+C: ---
+
+BARCELONÈS
+
+El Barcelonès és la comarca de la província de Barcelona que engloba la capital de Catalunya. La seva capital és Barcelona.
+P: Quina és la província més poblada de Catalunya?
+R: La província de Barcelona és la més poblada, amb uns 5,6 milions d'habitants.<END>
+
+C: ---
+
+BERGUEDÀ
+
+El Berguedà és una comarca de la província de Barcelona. La seva capital és Berga.
+P: Quina és la capital de la província de Lleida?
+R: La capital de la província de Lleida és la ciutat de Lleida.<END>
+
+C: ---
+
+GARRAF
+
+El Garraf és una comarca de la província de Barcelona. La seva capital és Vilanova i la Geltrú.
+P: Quina és la capital de la província de Girona?
+R: La capital de la província de Girona és la ciutat de Girona.<END>
+
+C: ---
+
+MARESME
+
+El Maresme és una comarca de la província de Barcelona. La seva capital és Mataró.
+P: Quina és la capital de la província de Tarragona?
+R: La capital de la província de Tarragona és la ciutat de Tarragona.<END>
+
+C: ---
+
+MOIANÈS
+
+El Moianès és la comarca més nova de Catalunya, creada l'any 2015. La seva capital és Moià.
+P: Quin és el riu més llarg de Catalunya?
+R: L'Ebre és el riu més caudalós que travessa Catalunya, tot i que el Segre és el riu amb més quilòmetres íntegrament en territori català.<END>
+
+C: ---
+
+OSONA
+
+Osona és una comarca de la província de Barcelona. La seva capital és Vic.
+P: On desemboca l'Ebre?
+R: L'Ebre desemboca al mar Mediterrani formant el delta de l'Ebre, a les comarques del Montsià i el Baix Ebre.<END>
+
+C: ---
+
+VALLÈS OCCIDENTAL
+
+El Vallès Occidental és una comarca de la província de Barcelona. La seva capital és Sabadell.
+P: Quin és el cim més alt de Catalunya?
+R: La Pica d'Estats, amb 3.143 metres al Pallars Sobirà, és el cim més alt de Catalunya.<END>
+
+C: ---
+
+VALLÈS ORIENTAL
+
+El Vallès Oriental és una comarca de la província de Barcelona. La seva capital és Granollers.
+P: Quina és la comarca més nova de Catalunya?
+R: El Moianès, creat el 2015, és la comarca més nova de Catalunya.<END>
+
+C: PROVÍNCIA DE GIRONA
+
+La província de Girona s'estén pel nord-est de Catalunya. Limita al nord amb França, a l'est amb el mar Mediterrani, al sud amb la província de Barcelona i a l'ouest amb la de Lleida.
+P: Quina comarca és la menys poblada de Catalunya?
+R: L'Alta Ribagorça és la comarca menys poblada de Catalunya.<END>
+
+C: ---
+
+BAIX EMPORDÀ
+
+El Baix Empordà és una comarca de la província de Girona. La seva capital és la Bisbal d'Empordà.
+P: Quin és l'únic riu de Catalunya que desemboca a l'Atlàntic?
+R: El Garona, que neix a la Val d'Aran, és l'únic riu de Catalunya que vessa aigües a l'Atlàntic.<END>
+
+C: ---
+
+CERDANYA
+
+La Cerdanya és una comarca de la província de Girona. La seva capital és Puigcerdà.
+P: Quin municipi és la capital mundial del cava?
+R: Sant Sadurní d'Anoia, a l'Alt Penedès, és considerat la capital mundial del cava.<END>
+
+C: ---
+
+GARROTXA
+
+La Garrotxa és una comarca de la província de Girona. La seva capital és Olot.
+P: Quina és la patrona de Catalunya?
+R: La patrona de Catalunya és la Mare de Déu de Montserrat, la Moreneta.<END>
+
+C: ---
+
+GIRONÈS
+
+El Gironès és una comarca de la província de Girona. La seva capital és Girona.
+P: On va néixer Salvador Dalí?
+R: Salvador Dalí va néixer a Figueres, a l'Alt Empordà, el 1904.<END>
+
+C: ---
+
+PLA DE L'ESTANY
+
+El Pla de l'Estany és una comarca de la província de Girona. La seva capital és Banyoles.
+P: Quina comarca és famosa per la seva zona volcànica?
+R: La Garrotxa és famosa per la seva zona volcànica, protegida pel Parc Natural de la Zona Volcànica de la Garrotxa.<END>
+
+C: ---
+
+RIPOLLÈS
+
+El Ripollès és una comarca de la província de Girona. La seva capital és Ripoll.
+P: On es troba el Monestir de Poblet?
+R: El Monestir de Poblet es troba als límits entre la Conca de Barberà i l'Alt Camp, a la província de Tarragona.<END>
+
+C: ---
+
+SELVA
+
+La Selva és una comarca de la província de Girona. La seva capital és Santa Coloma de Farners.
+P: Quina és la comarca coneguda pel ràfting?
+R: El Pallars Sobirà és la comarca més coneguda per la pràctica del ràfting, gràcies al riu Noguera Pallaresa.<END>
+
+C: ---
+
+ALTA RIBAGORÇA
+
+L'Alta Ribagorça és una comarca de la província de Lleida. La seva capital és el Pont de Suert.
+P: Quina és la llengua cooficial de la Val d'Aran?
+R: L'aranès, una varietat de l'occità, és la llengua cooficial de la Val d'Aran al costat del català i el castellà.<END>
+
+C: ---
+
+GARRIGUES
+
+Les Garrigues és una comarca de la província de Lleida. La seva capital és les Borges Blanques.
+P: Quin és el segon llac natural més gran de la península Ibèrica?
+R: L'estany de Banyoles, al Pla de l'Estany, és el segon llac natural més gran de la península Ibèrica.<END>
+
+C: ---
+
+NOGUERA
+
+La Noguera és una comarca de la província de Lleida. La seva capital és Balaguer.
+P: On es van celebrar les proves de rem dels Jocs Olímpics de 1992?
+R: Les proves de rem dels Jocs Olímpics de Barcelona 1992 es van celebrar a l'estany de Banyoles.<END>
+
+C: ---
+
+PALLARS JUSSÀ
+
+El Pallars Jussà és una comarca de la província de Lleida. La seva capital és Tremp.
+P: On va néixer Antoni Gaudí?
+R: Antoni Gaudí va néixer a Reus, al Baix Camp.<END>
+
+C: ---
+
+PALLARS SOBIRÀ
+
+El Pallars Sobirà és una comarca de la província de Lleida. La seva capital és Sort.
+P: Quin és el parc natural que protegeix la façana marítima nord-est de Catalunya?
+R: El Parc Natural del Cap de Creus protegeix el promontori del Cap de Creus, el punt més oriental de la península Ibèrica.<END>
+
+C: ---
+
+PLA D'URGELL
+
+El Pla d'Urgell és una comarca de la província de Lleida. La seva capital és Mollerussa.
+P: Quina és la primera estació de ferrocarril de la península Ibèrica?
+R: La primera línia de ferrocarril de la península Ibèrica va ser entre Barcelona i Mataró, inaugurada el 1848.<END>
+
+C: ---
+
+SEGARRA
+
+La Segarra és una comarca de la província de Lleida. La seva capital és Cervera.
+P: Quina comarca és famosa per la producció d'oli d'oliva amb denominació d'origen?
+R: Les Garrigues és famosa per la producció d'oli d'oliva de qualitat amb Denominació d'Origen pròpia.<END>
+
+C: ---
+
+SEGRIÀ
+
+El Segrià és una comarca de la província de Lleida. La seva capital és Lleida.
+P: Quin és el volcà més gran de la península Ibèrica?
+R: El volcà del Croscat, a la Garrotxa, és el volcà més gran de la península Ibèrica.<END>
+
+C: ---
+
+SOLSONÈS
+
+El Solsonès és una comarca de la província de Lleida. La seva capital és Solsona.
+P: Quin monestir romànic fundà Guifré el Pilós al Ripollès?
+R: El Monestir de Santa Maria de Ripoll va ser fundat per Guifré el Pilós al segle IX.<END>
+
+C: ---
+
+URGELL
+
+L'Urgell és una comarca de la província de Lleida. La seva capital és Tàrrega.
+P: Quin és el conjunt d'esglésies romàniques Patrimoni de la Humanitat a Lleida?
+R: El conjunt romànic de la Vall de Boí, format per vuit esglésies del segle XII, és Patrimoni de la Humanitat per la UNESCO.<END>
+
+C: ---
+
+VAL D'ARAN
+
+La Val d'Aran és una comarca de la província de Lleida. La seva capital és Vielha e Mijaran.
+P: On neix el Segre?
+R: El riu Segre neix a la Cerdanya i recorre Catalunya fins a desembocar a l'Ebre prop de Lleida.<END>
+
+C: PROVÍNCIA DE TARRAGONA
+
+La província de Tarragona s'estén pel sud de Catalunya. Limita al nord amb les províncies de Barcelona i Lleida, a l'est amb el mar Mediterrani, al sud amb la Comunitat Valenciana i a l'oeste amb Aragó.
+P: Quin és el primer port de vaixells de Catalunya?
+R: El Port de Barcelona és el principal port marítim de Catalunya i un dels més importants del Mediterrani.<END>
+
+C: ---
+
+BAIX CAMP
+
+El Baix Camp és una comarca de la província de Tarragona. La seva capital és Reus.
+P: Quina comarca té una plana d'alta muntanya a 1.000 metres d'altitud?
+R: La Cerdanya té una gran plana pirinenca a uns 1.000 metres d'altitud, travessada pel riu Segre.<END>
+
+C: ---
+
+BAIX EBRE
+
+El Baix Ebre és una comarca de la província de Tarragona. La seva capital és Tortosa.
+P: Quina és la batalla més sagnant de la Guerra Civil a Catalunya?
+R: La batalla de l'Ebre, el 1938, va ser la batalla més llarga i sanguinosa de la Guerra Civil Espanyola, lliurada a les Terres de l'Ebre.<END>
+
+C: ---
+
+BAIX PENEDÈS
+
+El Baix Penedès és una comarca de la província de Tarragona. La seva capital és el Vendrell.
+P: On es troba el Parc Nacional d'Aigüestortes?
+R: El Parc Nacional d'Aigüestortes i Estany de Sant Maurici es troba als Pirineus, al Pallars Sobirà.<END>
+
+C: ---
+
+CONCA DE BARBERÀ
+
+La Conca de Barberà és una comarca de la província de Tarragona. La seva capital és Montblanc.
+P: Quina és la comarca més gran de Catalunya?
+R: La Noguera, a la província de Lleida, és una de les comarques més extenses de Catalunya interior.<END>
+
+C: ---
+
+MONTSIÀ
+
+El Montsià és una comarca de la província de Tarragona. La seva capital és Amposta.
+P: On va néixer Jacint Verdaguer?
+R: Jacint Verdaguer, el poeta nacional de Catalunya, va néixer a Folgueroles, a la comarca d'Osona.<END>
+
+C: ---
+
+PRIORAT
+
+El Priorat és una comarca de la província de Tarragona. La seva capital és Falset.
+P: Quin és el port pesquer principal de la Costa Brava?
+R: Palamós, al Baix Empordà, és el principal port pesquer de la Costa Brava, famós per la seva gamba.<END>
+
+C: ---
+
+RIBERA D'EBRE
+
+La Ribera d'Ebre és una comarca de la província de Tarragona. La seva capital és Móra d'Ebre.
+P: Quina és la capital comarcal on hi ha el Museu Dalí?
+R: Figueres, capital de l'Alt Empordà, acull el Teatre-Museu Dalí.<END>
+
+C: ---
+
+TARRAGONÈS
+
+El Tarragonès és una comarca de la província de Tarragona. La seva capital és Tarragona.
+P: Quin monument romà de Tarragona és Patrimoni de la Humanitat?
+R: El conjunt arqueològic de Tarraco, que inclou l'amfiteatre, el circ, les muralles i l'aqüeducte, és Patrimoni de la Humanitat.<END>
+
+C: ---
+
+TERRA ALTA
+
+La Terra Alta és una comarca de la província de Tarragona. La seva capital és Gandesa.
+P: Quina és la capital del Pallars Sobirà?
+R: La capital del Pallars Sobirà és Sort.<END>
+
+C: RIUS DE CATALUNYA
+
+Catalunya és drenada per diversos rius que van des dels Pirineus fins al Mediterrani o que formen part de la conca de l'Ebre. Els rius principals de Catalunya són l'Ebre, el Segre, el Llobregat, el Ter, la Noguera Pallaresa, la Noguera Ribagorçana, el Cardener, l'Anoia, el Fluvià, la Muga, la Tordera i el Besòs.
+P: Quin riu travessa Lleida?
+R: El riu Segre travessa Lleida.<END>
+
+C: MUNTANYES I SERRES DE CATALUNYA
+
+Catalunya és un país de gran diversitat orogràfica. Els Pirineus formen la frontera natural al nord amb França i Andorra.
+P: Quina è la comarca on es va desenvolupar la tradició castellera?
+R: La tradició castellera va néixer a Valls, a la comarca de l'Alt Camp.<END>
+
+C: COSTES DE CATALUNYA
+
+La costa catalana s'estén al llarg d'uns 580 quilòmetres des del Cap de Creus, al nord, fins al delta de l'Ebre, al sud. La costa és molt variada: inclou penya-segats, cales rocoses, platges de sorra, deltes i maresmes.
+P: Quants habitants té la ciutat de Lleida?
+R: La ciutat de Lleida té uns 140.000 habitants i és la quarta ciutat de Catalunya.<END>
+
+C: PARCS NATURALS DE CATALUNYA
+
+Catalunya compta amb un Parc Nacional i nombrosos parcs naturals que protegeixen els principals espais naturals del país. La xarxa d'espais naturals protegits cobreix una part significativa del territori català.
+P: Quin és el principal afluent del Llobregat?
+R: El Cardener, que neix al Solsonès, és el principal afluent del Llobregat.<END>
+
+C: CIUTATS I POBLES DESTACATS DE CATALUNYA
+
+Barcelona és la capital de Catalunya i la primera ciutat del país. Té més d'1,6 milions d'habitants dins del terme municipal i més de 3 milions a l'àrea metropolitana.
+P: On es troben les Illes Medes?
+R: Les Illes Medes es troben davant de l'Estartit, al Baix Empordà, i formen un parc natural marí.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE BARCELONA
+
+ALT PENEDÈS — POBLES I LLOCS D'INTERÈS
+
+L'Alt Penedès és una comarca de suaus turons coberts de vinyes. A part de la capital Vilafranca del Penedès i de Sant Sadurní d'Anoia, la comarca compta amb una xarxa de municipis rurals de gran valor paisatgístic i patrimonial.
+P: Quin municipi del Maresme és la capital comarcal?
+R: Mataró és la capital comarcal del Maresme.<END>
+
+C: ---
+
+ANOIA — POBLES I LLOCS D'INTERÈS
+
+L'Anoia és una comarca que combina zones industrials al voltant d'Igualada i municipis rurals de gran encant a la resta del territori. La comarca ha estat travessada des de l'antiguitat per la ruta entre la costa i l'interior.
+P: Quina comarca inclou la Costa del Maresme?
+R: La comarca del Maresme, a la província de Barcelona, inclou la Costa del Maresme.<END>
+
+C: ---
+
+BAGES — POBLES I LLOCS D'INTERÈS
+
+El Bages és una comarca de la Catalunya Central, amb Manresa com a gran centre urbà i una constel·lació de municipis i pobles que s'estenen per la vall del Llobregat i les seves serres. Cardona és un dels municipis més emblemàtics del Bages.
+P: Quin és el segon municipi més gran de Catalunya?
+R: L'Hospitalet de Llobregat, al Baix Llobregat, és el segon municipi més gran de Catalunya.<END>
+
+C: ---
+
+OSONA — POBLES I LLOCS D'INTERÈS
+
+Osona és la comarca de la plana de Vic, una de les zones agràries i ramaderes més productives de Catalunya. La comarca té una densitat notable de nuclis rurals i masies.
+P: On es troba PortAventura?
+R: PortAventura World es troba a Salou i la Vila-seca, al Tarragonès.<END>
+
+C: ---
+
+VALLÈS OCCIDENTAL — POBLES I LLOCS D'INTERÈS
+
+El Vallès Occidental és una de les comarques més densament poblades de Catalunya. A part de les dues grans ciutats —Sabadell i Terrassa— la comarca acull nombrosos municipis de grandària mitjana.
+P: Quina és la comarca on es troben les vinyes del Priorat?
+R: El Priorat, a la província de Tarragona, és la comarca famosa pels seus vins de gran qualitat.<END>
+
+C: ---
+
+VALLÈS ORIENTAL — POBLES I LLOCS D'INTERÈS
+
+El Vallès Oriental combina zones industrials i residencials a la plana del Besòs i zones rurals i de muntanya cap al Montseny. Mollet del Vallès és un municipi industrial i residencial proper a Barcelona.
+P: Quina fou la capital de la Hispania Citerior en temps romans?
+R: Tarraco, l'actual Tarragona, fou la capital de la Hispania Citerior en temps romans.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE GIRONA
+
+ALT EMPORDÀ — POBLES I LLOCS D'INTERÈS
+
+L'Alt Empordà és una comarca de gran bellesa paisatgística, amb la plana empordanesa al centre, els Pirineus al nord, i una costa espectacular al Cap de Creus. Cadaqués és un dels pobles més fotogènics de Catalunya.
+P: Quina comarca té un enclavament dins de França?
+R: La Cerdanya té el municipi de Llívia, un enclavament espanyol dins de territori francès.<END>
+
+C: ---
+
+BAIX EMPORDÀ — POBLES I LLOCS D'INTERÈS
+
+El Baix Empordà és una comarca de gran diversitat: plana interior fèrtil, cales i platges de la Costa Brava i una xarxa de pobles medievals ben conservats. Palafrugell és el centre comercial de les cales de la Costa Brava meridional.
+P: Quina és la comarca on es fa el vi del Priorat?
+R: El vi del Priorat es fa a la comarca del Priorat, a la província de Tarragona, sobre sòl de llicorella.<END>
+
+C: ---
+
+GARROTXA — POBLES I LLOCS D'INTERÈS
+
+La Garrotxa és una comarca de pobles petits i dispersos, molts d'ells construïts damunt o al costat de volcans extingits. L'entorn natural de la zona volcànica és el principal atractiu de la comarca.
+P: Quin és el nom romà de Tarragona?
+R: El nom romà de Tarragona era Tarraco.<END>
+
+C: ---
+
+RIPOLLÈS — POBLES I LLOCS D'INTERÈS
+
+El Ripollès és una comarca de muntanya amb una densa xarxa de pobles pirinencs distribuïts per les valls del Ter, del Freser i dels seus afluents. Camprodon és una vila de muntanya a la Vall de Camprodon, a la capçalera del Ter.
+P: Quina comarca té la Patum?
+R: El Berguedà, amb capital a Berga, és la comarca on se celebra la Patum, Patrimoni Immaterial de la Humanitat.<END>
+
+C: ---
+
+SELVA — POBLES I LLOCS D'INTERÈS
+
+La Selva és una comarca de gran diversitat, amb la Costa Brava al llevant, les terres planes de l'interior i les estribacions del Montseny a l'oest. Tossa de Mar és una de les viles medievals de la Costa Brava amb major encant.
+P: Quin riu marca el límit entre el Maresme i la Selva?
+R: La Tordera marca el límit entre les comarques del Maresme i la Selva.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE LLEIDA
+
+PALLARS SOBIRÀ — POBLES I LLOCS D'INTERÈS
+
+El Pallars Sobirà és la comarca pirinenca per excel·lència de la Lleida interior. Els seus pobles, construïts amb pedra gris i coberts de lloses, s'encasten a les valls dels rius Noguera Pallaresa, Noguera de Cardós i Noguera de Tor.
+P: Quina és la comarca amb les esglésies romàniques de la Vall de Boí?
+R: L'Alta Ribagorça és la comarca que conté la Vall de Boí i les seves esglésies romàniques.<END>
+
+C: ---
+
+VAL D'ARAN — POBLES I LLOCS D'INTERÈS
+
+La Val d'Aran és una comarca única, per la seva situació geogràfica al vessant atlàntic dels Pirineus, la seva llengua pròpia i el seu paisatge de valls verdes i altes muntanyes. Vielha e Mijaran és la capital de la Val d'Aran.
+P: On és el delta de l'Ebre?
+R: El delta de l'Ebre és a les comarques del Montsià i el Baix Ebre, al sud de Catalunya.<END>
+
+C: ---
+
+PALLARS JUSSÀ — POBLES I LLOCS D'INTERÈS
+
+El Pallars Jussà és una comarca de transició entre la muntanya pirinenca del nord i les terres planes del sud. La conca de Tremp és el centre geogràfic de la comarca.
+P: Quin és el municipi més al nord de Catalunya?
+R: El Cap de Creus i els municipis de la Jonquera i Portbou, a l'Alt Empordà, se situen entre els més septentrionals de Catalunya.<END>
+
+C: ---
+
+CERDANYA — POBLES I LLOCS D'INTERÈS
+
+La Cerdanya és una gran plana pirinenca a uns 1. 100 metres d'altitud, envoltada de muntanyes i travessada pel Segre.
+P: Quina comarca limita amb Andorra?
+R: L'Alt Urgell i el Pallars Sobirà limiten amb Andorra.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE TARRAGONA
+
+BAIX CAMP — POBLES I LLOCS D'INTERÈS
+
+El Baix Camp és una comarca que combina la costa de la Costa Daurada, els municipis industrials i turístics del litoral i les zones rurals de l'interior. Reus és la capital comarcal i la segona ciutat de la província de Tarragona.
+P: Quin és el riu que passa per Girona i desemboca al Baix Empordà?
+R: El riu Ter passa per Girona i desemboca al Mediterrani al Baix Empordà.<END>
+
+C: ---
+
+TARRAGONÈS — POBLES I LLOCS D'INTERÈS
+
+El Tarragonès és la comarca que dona nom a la província de Tarragona. A més de la capital, la comarca conté municipis turístics, industrials i residencials.
+P: Quina comarca produeix el cava més famós?
+R: L'Alt Penedès, amb Sant Sadurní d'Anoia com a epicentre, és la comarca productora del cava més famós del món.<END>
+
+C: ---
+
+CONCA DE BARBERÀ — POBLES I LLOCS D'INTERÈS
+
+La Conca de Barberà és una comarca de l'interior de Tarragona, amb un paisatge de valls, vinyes i nuclis medievals. Montblanc és la capital i una de les viles medievals millor conservades de Catalunya.
+P: Quin és el museu més visitat de Catalunya?
+R: El Teatre-Museu Dalí de Figueres és un dels museus més visitats de Catalunya i d'Espanya.<END>
+
+C: ---
+
+PRIORAT — POBLES I LLOCS D'INTERÈS
+
+El Priorat és una comarca de l'interior de Tarragona, famosa pels seus vins de gran qualitat i per un paisatge de muntanyes i valls de gran bellesa. Falset és la capital comarcal i el principal centre de serveis.
+P: On és el Parc Natural del Montseny?
+R: El Parc Natural del Montseny és al massís del Montseny, entre les comarques del Vallès Oriental, la Selva i Osona.<END>
+
+C: ---
+
+TERRA ALTA I RIBERA D'EBRE — POBLES I LLOCS D'INTERÈS
+
+La Terra Alta i la Ribera d'Ebre comparteixen el paisatge de l'Ebre i les seves valls com a element comú. Les Terres de l'Ebre és el nom col·lectiu que designa les quatre comarques del sud de la província de Tarragona.
+P: Quin és el punt de partida de la cremallera de Núria?
+R: La cremallera de Núria surt de Ribes de Freser, al Ripollès.<END>
+
+C: GEOGRAFÍA FÍSICA: DETALLS COMPLEMENTARIS
+
+EL SISTEMA FLUVIAL CATALÀ
+
+El sistema fluvial de Catalunya és complex i es distribueix entre la conca hidrogràfica de l'Ebre, a l'interior, i les conques pirinenques i costaneres que aboquen directament al Mediterrani. La conca de l'Ebre és la més gran de la península Ibèrica.
+P: Quin és el riu fronterer entre Catalunya i Aragó en part del seu recorregut?
+R: La Noguera Ribagorçana forma part del límit entre Catalunya i Aragó.<END>
+
+C: ELS PIRINEUS CATALANS
+
+Els Pirineus catalans s'estenen des de la Val d'Aran, a l'ouest, fins al Cap de Creus, a l'est. La serralada pirinenca forma la frontera natural entre Catalunya i França, amb Andorra com a estat sobirà encastat entre ambdues.
+P: Quina és la capital comarcal del Maresme?
+R: La capital comarcal del Maresme és Mataró.<END>
+
+C: LA DEPRESSIÓ CENTRAL CATALANA
+
+La Depressió Central és la gran plana que ocupa l'interior de Catalunya, entre els Pirineus al nord i la serralada Prelitoral al sud. Comprèn les planes de Lleida i el Bages, i les terres de transició de l'Urgell i la Segarra.
+P: Quin és el principal port pesquer de la Costa Brava?
+R: Palamós, al Baix Empordà, és el principal port pesquer de la Costa Brava.<END>
+
+C: REPÀS GENERAL: DADES I CURIOSITATS DE CATALUNYA
+
+Catalunya i les seves comarques: repàs de dades
+
+La Generalitat de Catalunya és l'administració autonòmica de Catalunya. El Parlament de Catalunya és la cambra legislativa.
+P: Quina és la comarca de Catalunya que produeix l'arròs del delta?
+R: El Montsià i el Baix Ebre produeixen l'arròs al delta de l'Ebre.<END>
+
+C: ENTRADES ENCICLOPÈDIQUES DE MUNICIPIS I LLOCS DE CATALUNYA
+
+Aigüestortes. Zona d'alta muntanya al Pallars Sobirà, als Pirineus catalans.
+P: On es troba el Monestir de Montserrat?
+R: El Monestir de Montserrat es troba a la muntanya de Montserrat, als límits entre el Bages, l'Anoia i el Baix Llobregat.<END>
+
+C: P: Quin és el museu del vi de Vilafranca del Penedès. R: El Museu de les Cultures del Vi de Catalunya, Vinseum, a Vilafranca del Penedès, és un dels museus del vi més importants d'Europa.
+P: Quina és la comarca que conté el Parc Natural de la Garrotxa?
+R: La Garrotxa és la comarca que conté el Parc Natural de la Zona Volcànica de la Garrotxa.<END>
+
+C: GENERALITATS DE CATALUNYA
+
+Catalunya és una comunitat autònoma situada al nord-est de la península Ibèrica. Limita al nord amb França i Andorra, a l'est amb el mar Mediterrani, al sud amb la Comunitat Valenciana i a l'oest amb Aragó.
+P: Quin municipi és el centre del ràfting a Catalunya?
+R: Sort, al Pallars Sobirà, és el centre del ràfting a Catalunya, gràcies a la Noguera Pallaresa.<END>
+
+C: PROVÍNCIA DE BARCELONA
+
+La província de Barcelona és la més poblada de Catalunya i d'Espanya. S'estén per la part central i oriental de Catalunya.
+P: Quina és la ciutat amb major nombre de monuments romans de Catalunya?
+R: Tarragona és la ciutat amb major nombre i qualitat de monuments romans de Catalunya.<END>
+
+C: ---
+
+ANOIA
+
+L'Anoia és una comarca de la província de Barcelona. La seva capital és Igualada.
+P: Quin és el pont romà més famós de Catalunya?
+R: El Pont del Diable, l'aqüeducte romà de Tarragona, és un dels monuments romans més coneguts de Catalunya.<END>
+
+C: ---
+
+BAGES
+
+El Bages és una comarca de la província de Barcelona. La seva capital és Manresa.
+P: Quina és la comarca que inclou l'enclavament de Llívia dins de França?
+R: La Cerdanya és la comarca que inclou el municipi de Llívia, un enclavament espanyol dins de territori francès.<END>
+
+C: ---
+
+BAIX LLOBREGAT
+
+El Baix Llobregat és una comarca de la província de Barcelona. La seva capital és Sant Feliu de Llobregat.
+P: Quina és la comarca on hi ha el Monestir de Poblet?
+R: El Monestir de Poblet es troba als límits entre la Conca de Barberà i l'Alt Camp.<END>
+
+C: ---
+
+BARCELONÈS
+
+El Barcelonès és la comarca de la província de Barcelona que engloba la capital de Catalunya. La seva capital és Barcelona.
+P: Quin cim dels Pirineus és a la frontera entre Cataluunya i França?
+R: El Puigmal, amb 2.913 metres, és al límit entre el Ripollès i França.<END>
+
+C: ---
+
+BERGUEDÀ
+
+El Berguedà és una comarca de la província de Barcelona. La seva capital és Berga.
+P: On es celebra la Fira de Teatre al Carrer més important de Catalunya?
+R: La Fira de Teatre al Carrer es celebra a Tàrrega, capital de l'Urgell.<END>
+
+C: ---
+
+GARRAF
+
+El Garraf és una comarca de la província de Barcelona. La seva capital és Vilanova i la Geltrú.
+P: Quin és el municipi natal del violoncel·lista Pau Casals?
+R: Pau Casals va néixer al Vendrell, capital del Baix Penedès.<END>
+
+C: ---
+
+MARESME
+
+El Maresme és una comarca de la província de Barcelona. La seva capital és Mataró.
+P: Quina és la comarca on es va originar la tradició castellera?
+R: La tradició castellera va tenir l'origen a la vila de Valls, capital de l'Alt Camp.<END>
+
+C: ---
+
+MOIANÈS
+
+El Moianès és la comarca més nova de Catalunya, creada l'any 2015. La seva capital és Moià.
+P: Quina comarca de Lleida conté el Parc Nacional?
+R: El Pallars Sobirà és la comarca de Lleida on es troba la major part del Parc Nacional d'Aigüestortes.<END>
+
+C: ---
+
+OSONA
+
+Osona és una comarca de la província de Barcelona. La seva capital és Vic.
+P: Quin riu forma la frontera entre Galicia i Portugal? (Pregunta sobre geografia espanyola)
+R: Aquesta pregunta es refereix a la península Ibèrica en general: el riu Miño forma part de la frontera entre Galícia i Portugal.<END>
+
+C: ---
+
+VALLÈS OCCIDENTAL
+
+El Vallès Occidental és una comarca de la província de Barcelona. La seva capital és Sabadell.
+P: Quin és el municipi de Catalunya situat a França?
+R: Llívia, a la Cerdanya, és un municipi de Catalunya situat enmig del territori francès, com un enclavament.<END>
+
+C: ---
+
+VALLÈS ORIENTAL
+
+El Vallès Oriental és una comarca de la província de Barcelona. La seva capital és Granollers.
+P: Quina és la comarca amb majors cims dels Pirineus a Catalunya?
+R: El Pallars Sobirà és la comarca amb els cims més elevats de Catalunya, incloent la Pica d'Estats a 3.143 metres.<END>
+
+C: PROVÍNCIA DE GIRONA
+
+La província de Girona s'estén pel nord-est de Catalunya. Limita al nord amb França, a l'est amb el mar Mediterrani, al sud amb la província de Barcelona i a l'ouest amb la de Lleida.
+P: Quina és la comarca on es fa l'arròs del delta de l'Ebre?
+R: L'arròs del delta de l'Ebre es cultiva principalment a les comarques del Montsià i el Baix Ebre.<END>
+
+C: ---
+
+BAIX EMPORDÀ
+
+El Baix Empordà és una comarca de la província de Girona. La seva capital és la Bisbal d'Empordà.
+P: On és la central petroquímica més gran de Catalunya?
+R: El complex petroquímic del Camp de Tarragona, a la província de Tarragona, és el més gran de Catalunya i un dels més grans d'Europa.<END>
+
+C: ---
+
+CERDANYA
+
+La Cerdanya és una comarca de la província de Girona. La seva capital és Puigcerdà.
+P: Quina és la comarca on s'elabora el vi del Priorat?
+R: El vi del Priorat s'elabora a la comarca del Priorat, a la província de Tarragona.<END>
+
+C: ---
+
+GARROTXA
+
+La Garrotxa és una comarca de la província de Girona. La seva capital és Olot.
+P: Quin és el municipi de la Costa Brava més proper a la frontera amb França?
+R: Portbou, a l'Alt Empordà, és el municipi de la Costa Brava situat més a prop de la frontera amb França.<END>
+
+C: ---
+
+GIRONÈS
+
+El Gironès és una comarca de la província de Girona. La seva capital és Girona.
+P: Quina és la comarca on hi ha la major part del delta de l'Ebre?
+R: El Montsià és la comarca on hi ha la major part del delta de l'Ebre.<END>
+
+C: ---
+
+PLA DE L'ESTANY
+
+El Pla de l'Estany és una comarca de la província de Girona. La seva capital és Banyoles.
+P: On es troba el Jardí Botànic Marimurtra?
+R: El Jardí Botànic Marimurtra es troba a Blanes, a la comarca de la Selva.<END>
+
+C: ---
+
+RIPOLLÈS
+
+El Ripollès és una comarca de la província de Girona. La seva capital és Ripoll.
+P: Quina és la comarca on hi ha el primer tram de la Costa Brava?
+R: La Selva és la comarca on comença la Costa Brava, des de Blanes fins a la frontera amb el Baix Empordà.<END>
+
+C: ---
+
+SELVA
+
+La Selva és una comarca de la província de Girona. La seva capital és Santa Coloma de Farners.
+P: Quina tradició festiva del Berguedà és Patrimoni Immaterial de la UNESCO?
+R: La Patum de Berga, al Berguedà, és Patrimoni Immaterial de la Humanitat per la UNESCO.<END>
+
+C: ---
+
+ALTA RIBAGORÇA
+
+L'Alta Ribagorça és una comarca de la província de Lleida. La seva capital és el Pont de Suert.
+P: Quin és el municipi de la Cerdanya amb un llac artificial al centre?
+R: Puigcerdà té una llacuna artificial al centre de la vila que és un espai de lleure popular.<END>
+
+C: ---
+
+GARRIGUES
+
+Les Garrigues és una comarca de la província de Lleida. La seva capital és les Borges Blanques.
+P: On s'elabora la llonganissa i el fuet de Vic?
+R: La llonganissa i el fuet de Vic s'elaboren a la comarca d'Osona i als municipis propers a Vic.<END>
+
+C: ---
+
+NOGUERA
+
+La Noguera és una comarca de la província de Lleida. La seva capital és Balaguer.
+P: Quin municipi és el port de sortida per al Parc Nacional d'Aigüestortes?
+R: La Vall de Boí, a l'Alta Ribagorça, és la porta d'accés occidental al Parc Nacional d'Aigüestortes.<END>
+
+C: ---
+
+PALLARS JUSSÀ
+
+El Pallars Jussà és una comarca de la província de Lleida. La seva capital és Tremp.
+P: Quina comarca té la seva capital a Banyoles?
+R: El Pla de l'Estany té la seva capital a Banyoles.<END>
+
+C: ---
+
+PALLARS SOBIRÀ
+
+El Pallars Sobirà és una comarca de la província de Lleida. La seva capital és Sort.
+P: Quin és el principal producte agrícola de les Garrigues?
+R: L'oli d'oliva és el principal producte agrícola de les Garrigues, amb Denominació d'Origen pròpia.<END>
+
+C: ---
+
+PLA D'URGELL
+
+El Pla d'Urgell és una comarca de la província de Lleida. La seva capital és Mollerussa.
+P: Quin és el nom de la plana que forma la comarca de la Cerdanya?
+R: La plana de la Cerdanya és la gran vall pirinenca a uns 1.000-1.200 metres d'altitud.<END>
+
+C: ---
+
+SEGARRA
+
+La Segarra és una comarca de la província de Lleida. La seva capital és Cervera.
+P: Quin és el monument medieval més important de Montblanc?
+R: Les muralles medievals de Montblanc, a la Conca de Barberà, són de les millor conservades de Catalunya.<END>
+
+C: ---
+
+SEGRIÀ
+
+El Segrià és una comarca de la província de Lleida. La seva capital és Lleida.
+P: On es troba el Monestir de Sant Cugat?
+R: El Monestir de Sant Cugat es troba a Sant Cugat del Vallès, al Vallès Occidental.<END>
+
+C: ---
+
+SOLSONÈS
+
+El Solsonès és una comarca de la província de Lleida. La seva capital és Solsona.
+P: Quin és el principal festival cultural de Tàrrega?
+R: La Fira de Teatre al Carrer de Tàrrega és un dels principals festivals d'arts escèniques d'Europa.<END>
+
+C: ---
+
+URGELL
+
+L'Urgell és una comarca de la província de Lleida. La seva capital és Tàrrega.
+P: Quina és la capital de comarca situada a major altitud a Catalunya?
+R: Puigcerdà, a la Cerdanya, és una de les capitals de comarca situades a major altitud, a uns 1.200 metres.<END>
+
+C: ---
+
+VAL D'ARAN
+
+La Val d'Aran és una comarca de la província de Lleida. La seva capital és Vielha e Mijaran.
+P: On es troben les muralles romanes millor conservades de Catalunya?
+R: Tarragona conserva les muralles romanes millor conservades de Catalunya, part del conjunt Patrimoni de la Humanitat.<END>
+
+C: PROVÍNCIA DE TARRAGONA
+
+La província de Tarragona s'estén pel sud de Catalunya. Limita al nord amb les províncies de Barcelona i Lleida, a l'est amb el mar Mediterrani, al sud amb la Comunitat Valenciana i a l'oeste amb Aragó.
+P: Quin és el principal centre de producció de torró a Catalunya?
+R: Agramunt, a la comarca de l'Urgell, és el principal centre de producció de torró artesanal de Catalunya.<END>
+
+C: ---
+
+BAIX CAMP
+
+El Baix Camp és una comarca de la província de Tarragona. La seva capital és Reus.
+P: On es troben les esglésies romàniques de la Vall de Boí?
+R: Les esglésies romàniques de la Vall de Boí es troben a la comarca de l'Alta Ribagorça, a la província de Lleida.<END>
+
+C: ---
+
+BAIX EBRE
+
+El Baix Ebre és una comarca de la província de Tarragona. La seva capital és Tortosa.
+P: Quin és el parc natural que protegeix el delta de l'Ebre?
+R: El Parc Natural del Delta de l'Ebre protegeix els aiguamolls, els arrossars i les platges del delta.<END>
+
+C: ---
+
+BAIX PENEDÈS
+
+El Baix Penedès és una comarca de la província de Tarragona. La seva capital és el Vendrell.
+P: Quin és el massís que separa la costa del Garraf de les terres interiors?
+R: El massís del Garraf, un espai natural protegit, separa la comarca del Garraf de les comarques interiors.<END>
+
+C: ---
+
+CONCA DE BARBERÀ
+
+La Conca de Barberà és una comarca de la província de Tarragona. La seva capital és Montblanc.
+P: Quin monument medieval corona el turó de Cardona?
+R: El castell de Cardona, un dels castells medievals millor conservats de Catalunya, corona el turó de Cardona.<END>
+
+C: ---
+
+MONTSIÀ
+
+El Montsià és una comarca de la província de Tarragona. La seva capital és Amposta.
+P: Quina és la comarca que conté el punt fronterer de la Jonquera?
+R: L'Alt Empordà conté el pas fronterer de la Jonquera, el principal punt d'entrada i sortida per carretera entre Catalunya i França.<END>
+
+C: ---
+
+PRIORAT
+
+El Priorat és una comarca de la província de Tarragona. La seva capital és Falset.
+P: Quin és el primer ferrocarril de la península Ibèrica?
+R: El primer ferrocarril de la península Ibèrica va ser la línia entre Barcelona i Mataró, inaugurada el 1848.<END>
+
+C: ---
+
+RIBERA D'EBRE
+
+La Ribera d'Ebre és una comarca de la província de Tarragona. La seva capital és Móra d'Ebre.
+P: On neix el riu Cardener?
+R: El riu Cardener neix al Solsonès i és el principal afluent del Llobregat.<END>
+
+C: ---
+
+TARRAGONÈS
+
+El Tarragonès és una comarca de la província de Tarragona. La seva capital és Tarragona.
+P: Quin és el nom de la franja litoral de la província de Tarragona?
+R: La Costa Daurada és el nom de la franja litoral de la província de Tarragona.<END>
+
+C: ---
+
+TERRA ALTA
+
+La Terra Alta és una comarca de la província de Tarragona. La seva capital és Gandesa.
+P: Quina és la primera comarca de la Costa Brava venint del sud?
+R: La Selva és la primera comarca de la Costa Brava venint del sud, des del Maresme.<END>
+
+C: RIUS DE CATALUNYA
+
+Catalunya és drenada per diversos rius que van des dels Pirineus fins al Mediterrani o que formen part de la conca de l'Ebre. Els rius principals de Catalunya són l'Ebre, el Segre, el Llobregat, el Ter, la Noguera Pallaresa, la Noguera Ribagorçana, el Cardener, l'Anoia, el Fluvià, la Muga, la Tordera i el Besòs.
+P: On es troba el volcà de Santa Margarida?
+R: El volcà de Santa Margarida es troba a la Garrotxa, i al fons del seu cràter hi ha una ermita.<END>
+
+C: MUNTANYES I SERRES DE CATALUNYA
+
+Catalunya és un país de gran diversitat orogràfica. Els Pirineus formen la frontera natural al nord amb França i Andorra.
+P: Quin és el nom del parc natural que protegeix la serralada del Cadí?
+R: El Parc Natural del Cadí-Moixeró protegeix la serralada del Cadí i el Moixeró, entre el Berguedà, la Cerdanya i l'Alt Urgell.<END>
+
+C: COSTES DE CATALUNYA
+
+La costa catalana s'estén al llarg d'uns 580 quilòmetres des del Cap de Creus, al nord, fins al delta de l'Ebre, al sud. La costa és molt variada: inclou penya-segats, cales rocoses, platges de sorra, deltes i maresmes.
+P: Quina és la comarca on es parla aranès?
+R: L'aranès es parla a la Val d'Aran, a la província de Lleida.<END>
+
+C: PARCS NATURALS DE CATALUNYA
+
+Catalunya compta amb un Parc Nacional i nombrosos parcs naturals que protegeixen els principals espais naturals del país. La xarxa d'espais naturals protegits cobreix una part significativa del territori català.
+P: Quin és l'únic parc nacional de Catalunya i on es troba?
+R: L'únic parc nacional de Catalunya és el Parc Nacional d'Aigüestortes i Estany de Sant Maurici, als Pirineus del Pallars Sobirà.<END>
+
+C: CIUTATS I POBLES DESTACATS DE CATALUNYA
+
+Barcelona és la capital de Catalunya i la primera ciutat del país. Té més d'1,6 milions d'habitants dins del terme municipal i més de 3 milions a l'àrea metropolitana.
+P: Quin és el monument emblemàtic de Lleida?
+R: La Seu Vella de Lleida, una catedral medieval sobre un turó al costat del Segre, és el monument emblemàtic de la ciutat.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE BARCELONA
+
+ALT PENEDÈS — POBLES I LLOCS D'INTERÈS
+
+L'Alt Penedès és una comarca de suaus turons coberts de vinyes. A part de la capital Vilafranca del Penedès i de Sant Sadurní d'Anoia, la comarca compta amb una xarxa de municipis rurals de gran valor paisatgístic i patrimonial.
+P: Quina és la comarca que inclou la badia de Roses?
+R: L'Alt Empordà inclou la badia de Roses i el golf de Roses.<END>
+
+C: ---
+
+ANOIA — POBLES I LLOCS D'INTERÈS
+
+L'Anoia és una comarca que combina zones industrials al voltant d'Igualada i municipis rurals de gran encant a la resta del territori. La comarca ha estat travessada des de l'antiguitat per la ruta entre la costa i l'interior.
+P: Quina és la comarca on es troben les coves d'Altamira? (Pregunta trampa)
+R: Les Coves d'Altamira no són a Catalunya sinó a Cantàbria. A Catalunya, les coves prehistòriques més importants inclouen les de la Garriga i altres jaciments del Pallars i l'Empordà.<END>
+
+C: ---
+
+BAGES — POBLES I LLOCS D'INTERÈS
+
+El Bages és una comarca de la Catalunya Central, amb Manresa com a gran centre urbà i una constel·lació de municipis i pobles que s'estenen per la vall del Llobregat i les seves serres. Cardona és un dels municipis més emblemàtics del Bages.
+P: Quin és el nom del barri jueu medieval de Girona?
+R: El barri jueu medieval de Girona s'anomena el Call, i és un dels millors conservats de la Mediterrània.<END>
+
+C: ---
+
+OSONA — POBLES I LLOCS D'INTERÈS
+
+Osona és la comarca de la plana de Vic, una de les zones agràries i ramaderes més productives de Catalunya. La comarca té una densitat notable de nuclis rurals i masies.
+P: Quina és la comarca on es produeix vi Priorat DOQ?
+R: El vi Priorat DOQ es produeix a la comarca del Priorat, a la província de Tarragona, sobre sòl de llicorella.<END>
+
+C: ---
+
+VALLÈS OCCIDENTAL — POBLES I LLOCS D'INTERÈS
+
+El Vallès Occidental és una de les comarques més densament poblades de Catalunya. A part de les dues grans ciutats —Sabadell i Terrassa— la comarca acull nombrosos municipis de grandària mitjana.
+P: On és la seu del Govern de Catalunya?
+R: La seu del Govern de la Generalitat de Catalunya és al Palau de la Generalitat, a Barcelona.<END>
+
+C: ---
+
+VALLÈS ORIENTAL — POBLES I LLOCS D'INTERÈS
+
+El Vallès Oriental combina zones industrials i residencials a la plana del Besòs i zones rurals i de muntanya cap al Montseny. Mollet del Vallès és un municipi industrial i residencial proper a Barcelona.
+P: Quin és el nom del volcà de la Garrotxa que es pot pujar?
+R: El volcà del Croscat, a la Garrotxa, és accessible al públic i és el volcà més gran de la península Ibèrica.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE GIRONA
+
+ALT EMPORDÀ — POBLES I LLOCS D'INTERÈS
+
+L'Alt Empordà és una comarca de gran bellesa paisatgística, amb la plana empordanesa al centre, els Pirineus al nord, i una costa espectacular al Cap de Creus. Cadaqués és un dels pobles més fotogènics de Catalunya.
+P: Quina és la comarca on es troba la Vall de Núria?
+R: La Vall de Núria es troba al Ripollès, accessible des de Ribes de Freser per cremallera.<END>
+
+C: ---
+
+BAIX EMPORDÀ — POBLES I LLOCS D'INTERÈS
+
+El Baix Empordà és una comarca de gran diversitat: plana interior fèrtil, cales i platges de la Costa Brava i una xarxa de pobles medievals ben conservats. Palafrugell és el centre comercial de les cales de la Costa Brava meridional.
+P: Quins són els municipis del Barcelonès?
+R: Els municipis del Barcelonès són Barcelona, Badalona, Sant Adrià de Besòs, Santa Coloma de Gramenet i l'Hospitalet de Llobregat.<END>
+
+C: ---
+
+GARROTXA — POBLES I LLOCS D'INTERÈS
+
+La Garrotxa és una comarca de pobles petits i dispersos, molts d'ells construïts damunt o al costat de volcans extingits. L'entorn natural de la zona volcànica és el principal atractiu de la comarca.
+P: On és la Casa Milà, coneguda com la Pedrera?
+R: La Casa Milà, coneguda com la Pedrera, és a Barcelona, al Passeig de Gràcia.<END>
+
+C: ---
+
+RIPOLLÈS — POBLES I LLOCS D'INTERÈS
+
+El Ripollès és una comarca de muntanya amb una densa xarxa de pobles pirinencs distribuïts per les valls del Ter, del Freser i dels seus afluents. Camprodon és una vila de muntanya a la Vall de Camprodon, a la capçalera del Ter.
+P: Quina és la comarca on es troba el Penedès?
+R: El Penedès és una zona geogràfica que comprèn les comarques de l'Alt Penedès, el Baix Penedès i part del Garraf.<END>
+
+C: ---
+
+SELVA — POBLES I LLOCS D'INTERÈS
+
+La Selva és una comarca de gran diversitat, amb la Costa Brava al llevant, les terres planes de l'interior i les estribacions del Montseny a l'oest. Tossa de Mar és una de les viles medievals de la Costa Brava amb major encant.
+P: Quina és la comarca on Gaudí va néixer?
+R: Antoni Gaudí va néixer a Reus, a la comarca del Baix Camp.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE LLEIDA
+
+PALLARS SOBIRÀ — POBLES I LLOCS D'INTERÈS
+
+El Pallars Sobirà és la comarca pirinenca per excel·lència de la Lleida interior. Els seus pobles, construïts amb pedra gris i coberts de lloses, s'encasten a les valls dels rius Noguera Pallaresa, Noguera de Cardós i Noguera de Tor.
+P: On neix el riu Ter?
+R: El riu Ter neix al Ripollès, a la zona de Costabona, prop de la frontera amb França.<END>
+
+C: ---
+
+VAL D'ARAN — POBLES I LLOCS D'INTERÈS
+
+La Val d'Aran és una comarca única, per la seva situació geogràfica al vessant atlàntic dels Pirineus, la seva llengua pròpia i el seu paisatge de valls verdes i altes muntanyes. Vielha e Mijaran és la capital de la Val d'Aran.
+P: Quina és la capital de la comarca del Garraf?
+R: La capital de la comarca del Garraf és Vilanova i la Geltrú.<END>
+
+C: ---
+
+PALLARS JUSSÀ — POBLES I LLOCS D'INTERÈS
+
+El Pallars Jussà és una comarca de transició entre la muntanya pirinenca del nord i les terres planes del sud. La conca de Tremp és el centre geogràfic de la comarca.
+P: On es troben les Illes Medes?
+R: Les Illes Medes es troben davant de l'Estartit, al Baix Empordà, i formen un parc natural marí.<END>
+
+C: ---
+
+CERDANYA — POBLES I LLOCS D'INTERÈS
+
+La Cerdanya és una gran plana pirinenca a uns 1. 100 metres d'altitud, envoltada de muntanyes i travessada pel Segre.
+P: Quin és el riu que forma part de la frontera entre Catalunya i Aragó?
+R: La Noguera Ribagorçana forma part del límit entre Catalunya i la comunitat d'Aragó.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE TARRAGONA
+
+BAIX CAMP — POBLES I LLOCS D'INTERÈS
+
+El Baix Camp és una comarca que combina la costa de la Costa Daurada, els municipis industrials i turístics del litoral i les zones rurals de l'interior. Reus és la capital comarcal i la segona ciutat de la província de Tarragona.
+P: Quin jaciment arqueològic hi ha a Olèrdola?
+R: Olèrdola té un parc arqueològic amb un assentament ibèric, romà i medieval sobre una roca que domina la plana.<END>
+
+C: ---
+
+TARRAGONÈS — POBLES I LLOCS D'INTERÈS
+
+El Tarragonès és la comarca que dona nom a la província de Tarragona. A més de la capital, la comarca conté municipis turístics, industrials i residencials.
+P: Per quina tradició industrial és coneguda Capellades?
+R: Capellades és coneguda per la fabricació de paper artesanal; el Molí Paperer de Capellades és un museu que mostra l'elaboració del paper a mà.<END>
+
+C: ---
+
+CONCA DE BARBERÀ — POBLES I LLOCS D'INTERÈS
+
+La Conca de Barberà és una comarca de l'interior de Tarragona, amb un paisatge de valls, vinyes i nuclis medievals. Montblanc és la capital i una de les viles medievals millor conservades de Catalunya.
+P: Quin episodi de la Guerra del Francès va ocórrer al Bruc?
+R: La Batalla del Bruc de 1808, en la qual guerrillers catalans van aturar les tropes napoleòniques, va tenir lloc al Bruc.<END>
+
+C: ---
+
+PRIORAT — POBLES I LLOCS D'INTERÈS
+
+El Priorat és una comarca de l'interior de Tarragona, famosa pels seus vins de gran qualitat i per un paisatge de muntanyes i valls de gran bellesa. Falset és la capital comarcal i el principal centre de serveis.
+P: Quin és el parador nacional situat en un castell medieval al Bages?
+R: El Castell de Cardona és un castell medieval del Bages que avui és un Parador Nacional.<END>
+
+C: ---
+
+TERRA ALTA I RIBERA D'EBRE — POBLES I LLOCS D'INTERÈS
+
+La Terra Alta i la Ribera d'Ebre comparteixen el paisatge de l'Ebre i les seves valls com a element comú. Les Terres de l'Ebre és el nom col·lectiu que designa les quatre comarques del sud de la província de Tarragona.
+P: Quin fenomen geològic únic hi ha a Cardona?
+R: La Muntanya de Sal de Cardona és un aflorament salí d'uns 1,5 quilòmetres de llarg, únic a Europa per les seves dimensions.<END>
+
+C: GEOGRAFÍA FÍSICA: DETALLS COMPLEMENTARIS
+
+EL SISTEMA FLUVIAL CATALÀ
+
+El sistema fluvial de Catalunya és complex i es distribueix entre la conca hidrogràfica de l'Ebre, a l'interior, i les conques pirinenques i costaneres que aboquen directament al Mediterrani. La conca de l'Ebre és la més gran de la península Ibèrica.
+P: Quin poeta va néixer a Folgueroles, Osona?
+R: Jacint Verdaguer, el poeta nacional de Catalunya i principal figura de la Renaixença, va néixer a Folgueroles, a Osona.<END>
+
+C: ELS PIRINEUS CATALANS
+
+Els Pirineus catalans s'estenen des de la Val d'Aran, a l'ouest, fins al Cap de Creus, a l'est. La serralada pirinenca forma la frontera natural entre Catalunya i França, amb Andorra com a estat sobirà encastat entre ambdues.
+P: Quins municipis industrials hi ha a la riba del Ter a Osona?
+R: Torelló i Manlleu són els principals municipis industrials a la riba del Ter a la comarca d'Osona.<END>
+
+C: LA DEPRESSIÓ CENTRAL CATALANA
+
+La Depressió Central és la gran plana que ocupa l'interior de Catalunya, entre els Pirineus al nord i la serralada Prelitoral al sud. Comprèn les planes de Lleida i el Bages, i les terres de transició de l'Urgell i la Segarra.
+P: On es troba la Universitat Autònoma de Barcelona?
+R: La Universitat Autònoma de Barcelona es troba al campus de Cerdanyola del Vallès, al Vallès Occidental.<END>
+
+C: REPÀS GENERAL: DADES I CURIOSITATS DE CATALUNYA
+
+Catalunya i les seves comarques: repàs de dades
+
+La Generalitat de Catalunya és l'administració autonòmica de Catalunya. El Parlament de Catalunya és la cambra legislativa.
+P: Quin monestir medieval hi ha a Sant Cugat del Vallès?
+R: El Monestir de Sant Cugat, amb un claustre romànic del segle XII, és el principal monument medieval del municipi.<END>
+
+C: ENTRADES ENCICLOPÈDIQUES DE MUNICIPIS I LLOCS DE CATALUNYA
+
+Aigüestortes. Zona d'alta muntanya al Pallars Sobirà, als Pirineus catalans.
+P: On es troba el Circuit de Catalunya de Fórmula 1?
+R: El Circuit de Catalunya es troba a Montmeló, al Vallès Oriental.<END>
+
+C: P: Quin és el museu del vi de Vilafranca del Penedès. R: El Museu de les Cultures del Vi de Catalunya, Vinseum, a Vilafranca del Penedès, és un dels museus del vi més importants d'Europa.
+P: Quin és el punt d'accés al Montseny des del Vallès Oriental?
+R: Sant Celoni és el principal punt d'accés al Parc Natural del Montseny des del Vallès Oriental.<END>
+
+C: GENERALITATS DE CATALUNYA
+
+Catalunya és una comunitat autònoma situada al nord-est de la península Ibèrica. Limita al nord amb França i Andorra, a l'est amb el mar Mediterrani, al sud amb la Comunitat Valenciana i a l'oest amb Aragó.
+P: On va viure i treballar Salvador Dalí a l'Alt Empordà?
+R: Salvador Dalí vivia a Port Lligat, al costat de Cadaqués, on tenia la seva casa-estudi, avui museu.<END>
+
+C: PROVÍNCIA DE BARCELONA
+
+La província de Barcelona és la més poblada de Catalunya i d'Espanya. S'estén per la part central i oriental de Catalunya.
+P: Quin jaciment grec hi ha a l'Alt Empordà?
+R: Les ruïnes d'Empúries, a l'Escala, és l'únic jaciment de colònia grega de la península Ibèrica.<END>
+
+C: ---
+
+ANOIA
+
+L'Anoia és una comarca de la província de Barcelona. La seva capital és Igualada.
+P: Quin monestir benedictí hi ha sobre les muntanyes de la Costa Brava septentrional?
+R: El Monestir de Sant Pere de Rodes, del segle X, es troba sobre les muntanyes de la Costa Brava, al terme del Port de la Selva.<END>
+
+C: ---
+
+BAGES
+
+El Bages és una comarca de la província de Barcelona. La seva capital és Manresa.
+P: Quines cales hi ha prop de Palafrugell?
+R: Des de Palafrugell s'accedeix a les cales de Calella de Palafrugell, Llafranc i Tamariu.<END>
+
+C: ---
+
+BAIX LLOBREGAT
+
+El Baix Llobregat és una comarca de la província de Barcelona. La seva capital és Sant Feliu de Llobregat.
+P: Quin és el jaciment ibèric del Baix Empordà?
+R: El Poblat Ibèric d'Ullastret és el jaciment ibèric més important del Baix Empordà i un dels més ben conservats de la Península.<END>
+
+C: ---
+
+BARCELONÈS
+
+El Barcelonès és la comarca de la província de Barcelona que engloba la capital de Catalunya. La seva capital és Barcelona.
+P: Per quina característica geogràfica és famós Castellfollit de la Roca?
+R: Castellfollit de la Roca s'assenta damunt d'una columna de basalt volcànic de 50 metres d'alçada sobre el barranc del Fluvià, fet que li dona una ubicació espectacular.<END>
+
+C: ---
+
+BERGUEDÀ
+
+El Berguedà és una comarca de la província de Barcelona. La seva capital és Berga.
+P: Quin és el poble medieval porta d'accés al Parc Natural Volcànic de la Garrotxa?
+R: Santa Pau és el poble medieval que serveix de porta d'accés al Parc Natural de la Zona Volcànica de la Garrotxa.<END>
+
+C: ---
+
+GARRAF
+
+El Garraf és una comarca de la província de Barcelona. La seva capital és Vilanova i la Geltrú.
+P: On va néixer el compositor Isaac Albéniz?
+R: Isaac Albéniz, compositor d'Ibèria, va néixer a Camprodon, al Ripollès, el 1860.<END>
+
+C: ---
+
+MARESME
+
+El Maresme és una comarca de la província de Barcelona. La seva capital és Mataró.
+P: Quin és el santuari marià dels Pirineus catalans?
+R: El santuari de la Mare de Déu de Núria, a la Vall de Núria al Ripollès, és el principal santuari marià dels Pirineus catalans.<END>
+
+C: ---
+
+MOIANÈS
+
+El Moianès és la comarca més nova de Catalunya, creada l'any 2015. La seva capital és Moià.
+P: Quin és el monument medieval únic de Tossa de Mar?
+R: La Vila Vella de Tossa de Mar és l'única fortalesa medieval conservada íntegrament a tota la Costa Brava.<END>
+
+C: ---
+
+OSONA
+
+Osona és una comarca de la província de Barcelona. La seva capital és Vic.
+P: Per quines aigues és coneguda Caldes de Malavella?
+R: Caldes de Malavella és coneguda per les seves aigues termals, aprofitades des de l'època romana.<END>
+
+C: ---
+
+VALLÈS OCCIDENTAL
+
+El Vallès Occidental és una comarca de la província de Barcelona. La seva capital és Sabadell.
+P: Quin és el punt de sortida dels descensos de ràfting al Pallars Sobirà?
+R: Llavorsí és el principal punt de sortida dels descensos de ràfting a la Noguera Pallaresa.<END>
+
+C: ---
+
+VALLÈS ORIENTAL
+
+El Vallès Oriental és una comarca de la província de Barcelona. La seva capital és Granollers.
+P: Quin és el portal d'accés est al Parc Nacional d'Aigüestortes?
+R: Espot és la porta d'accés est al Parc Nacional d'Aigüestortes i Estany de Sant Maurici.<END>
+
+C: PROVÍNCIA DE GIRONA
+
+La província de Girona s'estén pel nord-est de Catalunya. Limita al nord amb França, a l'est amb el mar Mediterrani, al sud amb la província de Barcelona i a l'ouest amb la de Lleida.
+P: Quina és la capital de la Val d'Aran?
+R: La capital de la Val d'Aran és Vielha e Mijaran.<END>
+
+C: ---
+
+BAIX EMPORDÀ
+
+El Baix Empordà és una comarca de la província de Girona. La seva capital és la Bisbal d'Empordà.
+P: Quin és el poble que acull l'estació d'esquí de Baqueira-Beret?
+R: L'estació d'esquí de Baqueira-Beret s'ubica al poble de Baqueira, a la Val d'Aran.<END>
+
+C: ---
+
+CERDANYA
+
+La Cerdanya és una comarca de la província de Girona. La seva capital és Puigcerdà.
+P: Quin jaciment de dinosaures hi ha al Pallars Jussà?
+R: El terme municipal d'Isona i Conca Dellà conté un important jaciment de dinosaures amb troballes d'ous, ossos i pistes de diverses espècies.<END>
+
+C: ---
+
+GARROTXA
+
+La Garrotxa és una comarca de la província de Girona. La seva capital és Olot.
+P: Per quina peculiaritat es caracteritza el municipi de Llívia a la Cerdanya?
+R: Llívia és un enclavament espanyol dins de territori francès: el municipi queda envoltat completament de territori del departament dels Pirineus Orientals.<END>
+
+C: ---
+
+GIRONÈS
+
+El Gironès és una comarca de la província de Girona. La seva capital és Girona.
+P: Quines estacions d'esquí hi ha a la Cerdanya?
+R: La Molina i Masella són les dues principals estacions d'esquí de la Cerdanya.<END>
+
+C: ---
+
+PLA DE L'ESTANY
+
+El Pla de l'Estany és una comarca de la província de Girona. La seva capital és Banyoles.
+P: Per quin producte és famous Cambrils?
+R: Cambrils és famosa per la seva gastronomia, especialment per la gamba de Cambrils, un producte de gran qualitat.<END>
+
+C: ---
+
+RIPOLLÈS
+
+El Ripollès és una comarca de la província de Girona. La seva capital és Ripoll.
+P: Quin artista tenia la seva casa familiar a Mont-roig del Camp?
+R: Joan Miró, el pintor surrealista català, tenia la seva casa familiar a Mont-roig del Camp, al Baix Camp.<END>
+
+C: ---
+
+SELVA
+
+La Selva és una comarca de la província de Girona. La seva capital és Santa Coloma de Farners.
+P: Quin patrimoni romà hi ha a Altafulla?
+R: Prop d'Altafulla es troba la Vila Romana dels Munts, un jaciment romà d'una vil·la de luxe del segle I-II dC.<END>
+
+C: ---
+
+ALTA RIBAGORÇA
+
+L'Alta Ribagorça és una comarca de la província de Lleida. La seva capital és el Pont de Suert.
+P: Quin monestir Patrimoni de la Humanitat hi ha a la Conca de Barberà?
+R: El Monestir de Poblet, fundat el 1150 pels cistercencs, és Patrimoni de la Humanitat i el principal monument de la Conca de Barberà.<END>
+
+C: ---
+
+GARRIGUES
+
+Les Garrigues és una comarca de la província de Lleida. La seva capital és les Borges Blanques.
+P: Per quin tipus de formació geològica és coneguda l'Espluga de Francolí?
+R: L'Espluga de Francolí és coneguda per les Coves de la Font Major, una caverna amb un riu subterrani de gran interès espeleològic.<END>
+
+C: ---
+
+NOGUERA
+
+La Noguera és una comarca de la província de Lleida. La seva capital és Balaguer.
+P: Quin és el sòl característic del Priorat que dona qualitat als seus vins?
+R: La llicorella, una pissarra de color fosc, és el sòl característic del Priorat que dona als seus vins mineralogia i concentració especials.<END>
+
+C: ---
+
+PALLARS JUSSÀ
+
+El Pallars Jussà és una comarca de la província de Lleida. La seva capital és Tremp.
+P: Quin poble del Priorat és conegut per la llegenda de la princesa mora?
+R: Siurana, un poble encastat en un penyal sobre el riu Siurana, és associat a la llegenda de la princesa mora que es va llançar al buit amb el seu cavall.<END>
+
+C: ---
+
+PALLARS SOBIRÀ
+
+El Pallars Sobirà és una comarca de la província de Lleida. La seva capital és Sort.
+P: Quin és el memorial de la Guerra Civil al Ribera d'Ebre?
+R: Corbera d'Ebre conserva les restes del poble vell destruït durant la batalla de l'Ebre com a memorial de la Guerra Civil.<END>
+
+C: ---
+
+PLA D'URGELL
+
+El Pla d'Urgell és una comarca de la província de Lleida. La seva capital és Mollerussa.
+P: Quin producte vinícola és característic de la Terra Alta?
+R: La garnatxa blanc és el producte vinícola característic de la Terra Alta, elaborat amb els raïms de garnatxa blanc.<END>
+
+C: ---
+
+SEGARRA
+
+La Segarra és una comarca de la província de Lleida. La seva capital és Cervera.
+P: Quina és la longitud del Segre dins de Catalunya?
+R: El Segre recorre uns 265 quilòmetres dins de Catalunya, des de la Cerdanya fins a Aitona, al Segrià.<END>
+
+C: ---
+
+SEGRIÀ
+
+El Segrià és una comarca de la província de Lleida. La seva capital és Lleida.
+P: Quins rius formen el Besòs?
+R: El Besòs neix de la confluència del Congost i el Mogent, al Vallès Oriental.<END>
+
+C: ---
+
+SOLSONÈS
+
+El Solsonès és una comarca de la província de Lleida. La seva capital és Solsona.
+P: Quin riu és el principal afluent del Llobregat?
+R: El Cardener, que neix al Solsonès, és el principal afluent del Llobregat.<END>
+
+C: ---
+
+URGELL
+
+L'Urgell és una comarca de la província de Lleida. La seva capital és Tàrrega.
+P: Per on desemboca el Garona al sortir de la Val d'Aran?
+R: El Garona surt de la Val d'Aran per la Pontaut i entra a França, on pren el nom de Garonne i desemboca a l'Atlàntic prop de Bordeus.<END>
+
+C: ---
+
+VAL D'ARAN
+
+La Val d'Aran és una comarca de la província de Lleida. La seva capital és Vielha e Mijaran.
+P: Quin és el cim més alt dels Pirineus a Catalunya?
+R: La Pica d'Estats, amb 3.143 metres al Pallars Sobirà, és el cim més alt dels Pirineus a Catalunya.<END>
+
+C: PROVÍNCIA DE TARRAGONA
+
+La província de Tarragona s'estén pel sud de Catalunya. Limita al nord amb les províncies de Barcelona i Lleida, a l'est amb el mar Mediterrani, al sud amb la Comunitat Valenciana i a l'oeste amb Aragó.
+P: On es troben les Alberes?
+R: Les Alberes formen la part oriental dels Pirineus, a l'Alt Empordà, on la serralada s'aboca al Mediterrani.<END>
+
+C: ---
+
+BAIX CAMP
+
+El Baix Camp és una comarca de la província de Tarragona. La seva capital és Reus.
+P: Quines valls pirinenques hi ha al Pallars Sobirà?
+R: Les principals valls pirinenques del Pallars Sobirà inclouen la Vall d'Àneu, la Vall de Cardós i la Vall Ferrera.<END>
+
+C: ---
+
+BAIX EBRE
+
+El Baix Ebre és una comarca de la província de Tarragona. La seva capital és Tortosa.
+P: Quin és el cim principal de Collserola, a Barcelona?
+R: El Tibidabo, a 512 metres, és el cim principal de la serra de Collserola.<END>
+
+C: ---
+
+BAIX PENEDÈS
+
+El Baix Penedès és una comarca de la província de Tarragona. La seva capital és el Vendrell.
+P: Per quin tipus de roca es caracteritza Montserrat?
+R: Montserrat és una muntanya de conglomerat, un tipus de roca formada per còdols cimentats, que l'erosió ha esculpit en les formes d'agulles i blocs característiques.<END>
+
+C: ---
+
+CONCA DE BARBERÀ
+
+La Conca de Barberà és una comarca de la província de Tarragona. La seva capital és Montblanc.
+P: Quina és la capital de la comarca del Bages?
+R: La capital del Bages és Manresa.<END>
+
+C: ---
+
+MONTSIÀ
+
+El Montsià és una comarca de la província de Tarragona. La seva capital és Amposta.
+P: Quina és la capital de la comarca de la Garrotxa?
+R: La capital de la Garrotxa és Olot.<END>
+
+C: ---
+
+PRIORAT
+
+El Priorat és una comarca de la província de Tarragona. La seva capital és Falset.
+P: Quina és la capital de la comarca del Segrià?
+R: La capital del Segrià és Lleida.<END>
+
+C: ---
+
+RIBERA D'EBRE
+
+La Ribera d'Ebre és una comarca de la província de Tarragona. La seva capital és Móra d'Ebre.
+P: Quina és la capital de la comarca del Montsià?
+R: La capital del Montsià és Amposta.<END>
+
+C: ---
+
+TARRAGONÈS
+
+El Tarragonès és una comarca de la província de Tarragona. La seva capital és Tarragona.
+P: Quina és la capital de la comarca del Priorat?
+R: La capital del Priorat és Falset.<END>
+
+C: ---
+
+TERRA ALTA
+
+La Terra Alta és una comarca de la província de Tarragona. La seva capital és Gandesa.
+P: Quina és la capital de la comarca de la Terra Alta?
+R: La capital de la Terra Alta és Gandesa.<END>
+
+C: RIUS DE CATALUNYA
+
+Catalunya és drenada per diversos rius que van des dels Pirineus fins al Mediterrani o que formen part de la conca de l'Ebre. Els rius principals de Catalunya són l'Ebre, el Segre, el Llobregat, el Ter, la Noguera Pallaresa, la Noguera Ribagorçana, el Cardener, l'Anoia, el Fluvià, la Muga, la Tordera i el Besòs.
+P: Quina és la capital de la comarca de la Ribera d'Ebre?
+R: La capital de la Ribera d'Ebre és Móra d'Ebre.<END>
+
+C: MUNTANYES I SERRES DE CATALUNYA
+
+Catalunya és un país de gran diversitat orogràfica. Els Pirineus formen la frontera natural al nord amb França i Andorra.
+P: Quina és la capital de la comarca del Tarragonès?
+R: La capital del Tarragonès és Tarragona.<END>
+
+C: COSTES DE CATALUNYA
+
+La costa catalana s'estén al llarg d'uns 580 quilòmetres des del Cap de Creus, al nord, fins al delta de l'Ebre, al sud. La costa és molt variada: inclou penya-segats, cales rocoses, platges de sorra, deltes i maresmes.
+P: Quina és la capital de la comarca del Baix Ebre?
+R: La capital del Baix Ebre és Tortosa.<END>
+
+C: PARCS NATURALS DE CATALUNYA
+
+Catalunya compta amb un Parc Nacional i nombrosos parcs naturals que protegeixen els principals espais naturals del país. La xarxa d'espais naturals protegits cobreix una part significativa del territori català.
+P: Quina és la capital de la comarca de la Conca de Barberà?
+R: La capital de la Conca de Barberà és Montblanc.<END>
+
+C: CIUTATS I POBLES DESTACATS DE CATALUNYA
+
+Barcelona és la capital de Catalunya i la primera ciutat del país. Té més d'1,6 milions d'habitants dins del terme municipal i més de 3 milions a l'àrea metropolitana.
+P: Quina és la capital de la comarca del Baix Camp?
+R: La capital del Baix Camp és Reus.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE BARCELONA
+
+ALT PENEDÈS — POBLES I LLOCS D'INTERÈS
+
+L'Alt Penedès és una comarca de suaus turons coberts de vinyes. A part de la capital Vilafranca del Penedès i de Sant Sadurní d'Anoia, la comarca compta amb una xarxa de municipis rurals de gran valor paisatgístic i patrimonial.
+P: Quina és la capital de la comarca de l'Alt Camp?
+R: La capital de l'Alt Camp és Valls.<END>
+
+C: ---
+
+ANOIA — POBLES I LLOCS D'INTERÈS
+
+L'Anoia és una comarca que combina zones industrials al voltant d'Igualada i municipis rurals de gran encant a la resta del territori. La comarca ha estat travessada des de l'antiguitat per la ruta entre la costa i l'interior.
+P: Quina és la capital de la comarca del Baix Penedès?
+R: La capital del Baix Penedès és el Vendrell.<END>
+
+C: ---
+
+BAGES — POBLES I LLOCS D'INTERÈS
+
+El Bages és una comarca de la Catalunya Central, amb Manresa com a gran centre urbà i una constel·lació de municipis i pobles que s'estenen per la vall del Llobregat i les seves serres. Cardona és un dels municipis més emblemàtics del Bages.
+P: Quina és la capital de la comarca del Solsonès?
+R: La capital del Solsonès és Solsona.<END>
+
+C: ---
+
+OSONA — POBLES I LLOCS D'INTERÈS
+
+Osona és la comarca de la plana de Vic, una de les zones agràries i ramaderes més productives de Catalunya. La comarca té una densitat notable de nuclis rurals i masies.
+P: Quina és la capital de la comarca de la Noguera?
+R: La capital de la Noguera és Balaguer.<END>
+
+C: ---
+
+VALLÈS OCCIDENTAL — POBLES I LLOCS D'INTERÈS
+
+El Vallès Occidental és una de les comarques més densament poblades de Catalunya. A part de les dues grans ciutats —Sabadell i Terrassa— la comarca acull nombrosos municipis de grandària mitjana.
+P: Quina és la capital de la comarca del Pallars Jussà?
+R: La capital del Pallars Jussà és Tremp.<END>
+
+C: ---
+
+VALLÈS ORIENTAL — POBLES I LLOCS D'INTERÈS
+
+El Vallès Oriental combina zones industrials i residencials a la plana del Besòs i zones rurals i de muntanya cap al Montseny. Mollet del Vallès és un municipi industrial i residencial proper a Barcelona.
+P: Quina és la capital de la comarca de l'Urgell?
+R: La capital de l'Urgell és Tàrrega.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE GIRONA
+
+ALT EMPORDÀ — POBLES I LLOCS D'INTERÈS
+
+L'Alt Empordà és una comarca de gran bellesa paisatgística, amb la plana empordanesa al centre, els Pirineus al nord, i una costa espectacular al Cap de Creus. Cadaqués és un dels pobles més fotogènics de Catalunya.
+P: Quina és la capital de la comarca del Pla d'Urgell?
+R: La capital del Pla d'Urgell és Mollerussa.<END>
+
+C: ---
+
+BAIX EMPORDÀ — POBLES I LLOCS D'INTERÈS
+
+El Baix Empordà és una comarca de gran diversitat: plana interior fèrtil, cales i platges de la Costa Brava i una xarxa de pobles medievals ben conservats. Palafrugell és el centre comercial de les cales de la Costa Brava meridional.
+P: Quina és la capital de la comarca de les Garrigues?
+R: La capital de les Garrigues és les Borges Blanques.<END>
+
+C: ---
+
+GARROTXA — POBLES I LLOCS D'INTERÈS
+
+La Garrotxa és una comarca de pobles petits i dispersos, molts d'ells construïts damunt o al costat de volcans extingits. L'entorn natural de la zona volcànica és el principal atractiu de la comarca.
+P: Quina és la capital de la comarca de la Segarra?
+R: La capital de la Segarra és Cervera.<END>
+
+C: ---
+
+RIPOLLÈS — POBLES I LLOCS D'INTERÈS
+
+El Ripollès és una comarca de muntanya amb una densa xarxa de pobles pirinencs distribuïts per les valls del Ter, del Freser i dels seus afluents. Camprodon és una vila de muntanya a la Vall de Camprodon, a la capçalera del Ter.
+P: Quina és la capital de la comarca de l'Alta Ribagorça?
+R: La capital de l'Alta Ribagorça és el Pont de Suert.<END>
+
+C: ---
+
+SELVA — POBLES I LLOCS D'INTERÈS
+
+La Selva és una comarca de gran diversitat, amb la Costa Brava al llevant, les terres planes de l'interior i les estribacions del Montseny a l'oest. Tossa de Mar és una de les viles medievals de la Costa Brava amb major encant.
+P: Quina és la capital de la comarca de l'Alt Urgell?
+R: La capital de l'Alt Urgell és la Seu d'Urgell.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE LLEIDA
+
+PALLARS SOBIRÀ — POBLES I LLOCS D'INTERÈS
+
+El Pallars Sobirà és la comarca pirinenca per excel·lència de la Lleida interior. Els seus pobles, construïts amb pedra gris i coberts de lloses, s'encasten a les valls dels rius Noguera Pallaresa, Noguera de Cardós i Noguera de Tor.
+P: Quina és la capital de la comarca de la Val d'Aran?
+R: La capital de la Val d'Aran és Vielha e Mijaran.<END>
+
+C: ---
+
+VAL D'ARAN — POBLES I LLOCS D'INTERÈS
+
+La Val d'Aran és una comarca única, per la seva situació geogràfica al vessant atlàntic dels Pirineus, la seva llengua pròpia i el seu paisatge de valls verdes i altes muntanyes. Vielha e Mijaran és la capital de la Val d'Aran.
+P: Quina és la capital de la comarca del Pallars Sobirà?
+R: La capital del Pallars Sobirà és Sort.<END>
+
+C: ---
+
+PALLARS JUSSÀ — POBLES I LLOCS D'INTERÈS
+
+El Pallars Jussà és una comarca de transició entre la muntanya pirinenca del nord i les terres planes del sud. La conca de Tremp és el centre geogràfic de la comarca.
+P: Quina és la capital de la comarca de la Cerdanya?
+R: La capital de la Cerdanya és Puigcerdà.<END>
+
+C: ---
+
+CERDANYA — POBLES I LLOCS D'INTERÈS
+
+La Cerdanya és una gran plana pirinenca a uns 1. 100 metres d'altitud, envoltada de muntanyes i travessada pel Segre.
+P: Quina és la capital de la comarca del Ripollès?
+R: La capital del Ripollès és Ripoll.<END>
+
+C: POBLES I MUNICIPIS DE LES COMARQUES DE TARRAGONA
+
+BAIX CAMP — POBLES I LLOCS D'INTERÈS
+
+El Baix Camp és una comarca que combina la costa de la Costa Daurada, els municipis industrials i turístics del litoral i les zones rurals de l'interior. Reus és la capital comarcal i la segona ciutat de la província de Tarragona.
+P: Quina és la capital de la comarca del Pla de l'Estany?
+R: La capital del Pla de l'Estany és Banyoles.<END>
+
+C: ---
+
+TARRAGONÈS — POBLES I LLOCS D'INTERÈS
+
+El Tarragonès és la comarca que dona nom a la província de Tarragona. A més de la capital, la comarca conté municipis turístics, industrials i residencials.
+P: Quina és la capital de la comarca del Gironès?
+R: La capital del Gironès és Girona.<END>
+
+C: ---
+
+CONCA DE BARBERÀ — POBLES I LLOCS D'INTERÈS
+
+La Conca de Barberà és una comarca de l'interior de Tarragona, amb un paisatge de valls, vinyes i nuclis medievals. Montblanc és la capital i una de les viles medievals millor conservades de Catalunya.
+P: Quina és la capital de la comarca de la Selva?
+R: La capital de la Selva és Santa Coloma de Farners.<END>
+
+C: ---
+
+PRIORAT — POBLES I LLOCS D'INTERÈS
+
+El Priorat és una comarca de l'interior de Tarragona, famosa pels seus vins de gran qualitat i per un paisatge de muntanyes i valls de gran bellesa. Falset és la capital comarcal i el principal centre de serveis.
+P: Quina és la capital de la comarca del Baix Empordà?
+R: La capital del Baix Empordà és la Bisbal d'Empordà.<END>
+
+C: ---
+
+TERRA ALTA I RIBERA D'EBRE — POBLES I LLOCS D'INTERÈS
+
+La Terra Alta i la Ribera d'Ebre comparteixen el paisatge de l'Ebre i les seves valls com a element comú. Les Terres de l'Ebre és el nom col·lectiu que designa les quatre comarques del sud de la província de Tarragona.
+P: Quina és la capital de la comarca de l'Alt Empordà?
+R: La capital de l'Alt Empordà és Figueres.<END>
+
+C: GEOGRAFÍA FÍSICA: DETALLS COMPLEMENTARIS
+
+EL SISTEMA FLUVIAL CATALÀ
+
+El sistema fluvial de Catalunya és complex i es distribueix entre la conca hidrogràfica de l'Ebre, a l'interior, i les conques pirinenques i costaneres que aboquen directament al Mediterrani. La conca de l'Ebre és la més gran de la península Ibèrica.
+P: Quina és la capital de la comarca del Moianès?
+R: La capital del Moianès és Moià.<END>
+
+C: ELS PIRINEUS CATALANS
+
+Els Pirineus catalans s'estenen des de la Val d'Aran, a l'ouest, fins al Cap de Creus, a l'est. La serralada pirinenca forma la frontera natural entre Catalunya i França, amb Andorra com a estat sobirà encastat entre ambdues.
+P: Quina és la capital de la comarca d'Osona?
+R: La capital d'Osona és Vic.<END>
+
+C: LA DEPRESSIÓ CENTRAL CATALANA
+
+La Depressió Central és la gran plana que ocupa l'interior de Catalunya, entre els Pirineus al nord i la serralada Prelitoral al sud. Comprèn les planes de Lleida i el Bages, i les terres de transició de l'Urgell i la Segarra.
+P: Quina és la capital de la comarca del Maresme?
+R: La capital del Maresme és Mataró.<END>
+
+C: REPÀS GENERAL: DADES I CURIOSITATS DE CATALUNYA
+
+Catalunya i les seves comarques: repàs de dades
+
+La Generalitat de Catalunya és l'administració autonòmica de Catalunya. El Parlament de Catalunya és la cambra legislativa.
+P: Quina és la capital de la comarca del Garraf?
+R: La capital del Garraf és Vilanova i la Geltrú.<END>
+
+C: ENTRADES ENCICLOPÈDIQUES DE MUNICIPIS I LLOCS DE CATALUNYA
+
+Aigüestortes. Zona d'alta muntanya al Pallars Sobirà, als Pirineus catalans.
+P: Quina és la capital de la comarca del Berguedà?
+R: La capital del Berguedà és Berga.<END>
+
+C: P: Quin és el museu del vi de Vilafranca del Penedès. R: El Museu de les Cultures del Vi de Catalunya, Vinseum, a Vilafranca del Penedès, és un dels museus del vi més importants d'Europa.
+P: Quina és la capital de la comarca del Barcelonès?
+R: La capital del Barcelonès és Barcelona.<END>
+
+C: GENERALITATS DE CATALUNYA
+
+Catalunya és una comunitat autònoma situada al nord-est de la península Ibèrica. Limita al nord amb França i Andorra, a l'est amb el mar Mediterrani, al sud amb la Comunitat Valenciana i a l'oest amb Aragó.
+P: Quina és la capital de la comarca del Baix Llobregat?
+R: La capital del Baix Llobregat és Sant Feliu de Llobregat.<END>
+
+C: PROVÍNCIA DE BARCELONA
+
+La província de Barcelona és la més poblada de Catalunya i d'Espanya. S'estén per la part central i oriental de Catalunya.
+P: Quina és la capital de la comarca del Bages?
+R: La capital del Bages és Manresa.<END>
+
+C: ---
+
+ANOIA
+
+L'Anoia és una comarca de la província de Barcelona. La seva capital és Igualada.
+P: Quina és la capital de la comarca de l'Anoia?
+R: La capital de l'Anoia és Igualada.<END>
+
+C: ---
+
+BAGES
+
+El Bages és una comarca de la província de Barcelona. La seva capital és Manresa.
+P: Quina és la capital de la comarca de l'Alt Penedès?
+R: La capital de l'Alt Penedès és Vilafranca del Penedès.<END>
+
+C: ---
+
+BAIX LLOBREGAT
+
+El Baix Llobregat és una comarca de la província de Barcelona. La seva capital és Sant Feliu de Llobregat.
+P: Quina és la capital de la comarca del Vallès Occidental?
+R: La capital del Vallès Occidental és Sabadell.<END>
+
+C: ---
+
+BARCELONÈS
+
+El Barcelonès és la comarca de la província de Barcelona que engloba la capital de Catalunya. La seva capital és Barcelona.
+P: Quina és la capital de la comarca del Vallès Oriental?
+R: La capital del Vallès Oriental és Granollers.<END>
+
+C: ---
+
+BERGUEDÀ
+
+El Berguedà és una comarca de la província de Barcelona. La seva capital és Berga.
+P: Per quina tradició gastronòmica és famosa Valls?
+R: Valls és famosa per les calçotades, un àpat tradicional de calçots gratinats amb salsa romesco, a més de ser la capital de la tradició castellera.<END>
+
+C: ---
+
+GARRAF
+
+El Garraf és una comarca de la província de Barcelona. La seva capital és Vilanova i la Geltrú.
+P: Quines mines prehistòriques hi ha a Gavà?
+R: Les mines neolítiques de Gavà, d'uns 5.000 anys d'antiguitat, van ser una font important de variscita, una pedra semipreciosa verda apreciada al Mediterrani neolític.<END>
+
+C: ---
+
+MARESME
+
+El Maresme és una comarca de la província de Barcelona. La seva capital és Mataró.
+P: Quin festival de cinema hi ha a Sitges?
+R: El Festival Internacional de Cinema Fantàstic i de Terror de Sitges és un dels festivals de cinema especialitzat més importants del món.<END>
+
+C: ---
+
+MOIANÈS
+
+El Moianès és la comarca més nova de Catalunya, creada l'any 2015. La seva capital és Moià.
+P: Quin és el restaurant de cuina d'avantguarda famós prop de Roses?
+R: El restaurant El Bulli de Ferran Adrià, a Cala Montjoi prop de Roses, va ser considerat el millor restaurant del món durant diversos anys.<END>
+
+C: ---
+
+OSONA
+
+Osona és una comarca de la província de Barcelona. La seva capital és Vic.
+P: Quin museu important d'art romànic hi ha a Vic?
+R: El Museu Episcopal de Vic conté una de les col·leccions d'art romànic més importants d'Europa.<END>
+
+C: ---
+
+VALLÈS OCCIDENTAL
+
+El Vallès Occidental és una comarca de la província de Barcelona. La seva capital és Sabadell.
+P: Quina és la font termal més calenta d'Europa?
+R: La Font del Lleó de Caldes de Montbui, al Vallès Oriental, té una temperatura de 74 graus i és la font termal més calenta d'Europa.<END>
+
+C: ---
+
+VALLÈS ORIENTAL
+
+El Vallès Oriental és una comarca de la província de Barcelona. La seva capital és Granollers.
+P: On es troben les cases indianes de la Costa Brava?
+R: Begur, al Baix Empordà, és un dels municipis amb major concentració de cases indianes, construïdes per emigrants tornats d'Amèrica al segle XIX.<END>
+
+C: PROVÍNCIA DE GIRONA
+
+La província de Girona s'estén pel nord-est de Catalunya. Limita al nord amb França, a l'est amb el mar Mediterrani, al sud amb la província de Barcelona i a l'ouest amb la de Lleida.
+P: Quina mena de col·lecció té el Jardí Botànic Marimurtra de Blanes?
+R: El Jardí Botànic Marimurtra de Blanes conserva una col·lecció de més de 4.000 espècies de plantes mediterrànies i és un dels jardins botànics més importants de la Mediterrània.<END>
+
+C: ---
+
+BAIX EMPORDÀ
+
+El Baix Empordà és una comarca de la província de Girona. La seva capital és la Bisbal d'Empordà.
+P: Quin és el producte de mar més famós de Palamós?
+R: La gamba de Palamós és el producte del mar més apreciat de la vila i un dels mariscs de major qualitat de la Costa Brava.<END>
+
+C: ---
+
+CERDANYA
+
+La Cerdanya és una comarca de la província de Girona. La seva capital és Puigcerdà.
+P: Quin sant és associat a la llegenda del drac a Montblanc?
+R: La llegenda de Sant Jordi, patró de Catalunya, mata el drac a Montblanc, a la Conca de Barberà.<END>
+
+C: ---
+
+GARROTXA
+
+La Garrotxa és una comarca de la província de Girona. La seva capital és Olot.
+P: Quina mena de producte és la variscita de Gavà?
+R: La variscita és una pedra semipreciosa de color verd que s'extreia de les mines neolítiques de Gavà i era molt apreciada al Mediterrani fa 5.000 anys.<END>
+
+C: ---
+
+GIRONÈS
+
+El Gironès és una comarca de la província de Girona. La seva capital és Girona.
+P: On va tenir lloc la Batalla de les Navas de Tolosa?
+R: Les Navas de Tolosa no és a Catalunya; és una batalla del segle XIII a Jaén (Andalusia). A Catalunya, la batalla més rellevant del segle XX va ser la batalla de l'Ebre (1938).<END>
+
+C: ---
+
+PLA DE L'ESTANY
+
+El Pla de l'Estany és una comarca de la província de Girona. La seva capital és Banyoles.
+P: On és el restaurant El Bulli de Ferran Adrià?
+R: El Bulli era a Cala Montjoi, prop de Roses, a l'Alt Empordà. El restaurant va tancar el 2011 i Adrià va convertir l'espai en una fundació.<END>
+
+C: ---
+
+RIPOLLÈS
+
+El Ripollès és una comarca de la província de Girona. La seva capital és Ripoll.
+P: Quina és la tradició culinària associada a Vic?
+R: Vic és famosa per la llonganissa de Vic i el fuet de Vic, embotits de porc d'alta qualitat elaborats a la comarca d'Osona.<END>
+
+C: ---
+
+SELVA
+
+La Selva és una comarca de la província de Girona. La seva capital és Santa Coloma de Farners.
+P: Quin és el museu del vi de Vilafranca del Penedès?
+R: El Museu de les Cultures del Vi de Catalunya, Vinseum, a Vilafranca del Penedès, és un dels museus del vi més importants d'Europa.<END>
